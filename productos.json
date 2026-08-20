@@ -378,7 +378,9 @@
     ],
     "descripcion": "Boneless 200g + papas + bebida al sabor que elijas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/boneless-combo/images/boneless-combo-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
