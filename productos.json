@@ -546,7 +546,9 @@
     ],
     "descripcion": "Miel y mostaza, dulce con carácter.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/salsa-honey-mustard/images/salsa-honey-mustard-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
