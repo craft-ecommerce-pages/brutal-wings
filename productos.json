@@ -1,1 +1,568 @@
-[]
+[
+  {
+    "id": "bcabd42a-a1c1-45d5-aee4-a55515e01736",
+    "slug": "12-alitas-recibes-18",
+    "nombre": "12 Alitas — recibes 18",
+    "precio": "14.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Pides 12, recibes 18. Ideal para compartir entre dos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Presentación",
+        "options": [
+          {
+            "label": "Solo alitas ($14.99)",
+            "price": 14.99
+          },
+          {
+            "label": "Combo (papas + bebida) ($18.49)",
+            "price": 18.49
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "eca8c1db-d624-48f3-87cc-11ccaba37761",
+    "slug": "20-alitas-recibes-30",
+    "nombre": "20 Alitas — recibes 30",
+    "precio": "23.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Pides 20, recibes 30. Para el hambre en serio.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Presentación",
+        "options": [
+          {
+            "label": "Solo alitas ($23.99)",
+            "price": 23.99
+          },
+          {
+            "label": "Combo (papas + bebida) ($27.49)",
+            "price": 27.49
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "ea7b5ff3-8476-49a6-8c32-47356d3343b4",
+    "slug": "30-alitas-recibes-45",
+    "nombre": "30 Alitas — recibes 45",
+    "precio": "29.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Pides 30, recibes 45. El combo del grupo.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Presentación",
+        "options": [
+          {
+            "label": "Solo alitas ($29.99)",
+            "price": 29.99
+          },
+          {
+            "label": "Combo (papas + bebida) ($33.49)",
+            "price": 33.49
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "e5f99d26-c85d-4bf1-b4d1-4fa0d3fd8a30",
+    "slug": "40-alitas-recibes-60",
+    "nombre": "40 Alitas — recibes 60",
+    "precio": "39.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Pides 40, recibes 60. Nivel fiesta.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Presentación",
+        "options": [
+          {
+            "label": "Solo alitas ($39.99)",
+            "price": 39.99
+          },
+          {
+            "label": "Combo (papas + bebida) ($43.49)",
+            "price": 43.49
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "38ee8d6c-c378-4925-a972-8e34b914f62d",
+    "slug": "50-alitas-recibes-75",
+    "nombre": "50 Alitas — recibes 75",
+    "precio": "49.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "Pides 50, recibes 75. Modo brutal desatado.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Presentación",
+        "options": [
+          {
+            "label": "Solo alitas ($49.99)",
+            "price": 49.99
+          },
+          {
+            "label": "Combo (papas + bebida) ($53.49)",
+            "price": 53.49
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "eac69ea7-83e5-4640-806f-9b0a912c03e1",
+    "slug": "8-alitas-recibes-12",
+    "nombre": "8 Alitas — recibes 12",
+    "precio": "11.99",
+    "precio_promo": "",
+    "categorias": [
+      "alitas"
+    ],
+    "descripcion": "3x2 brutal: pides 8, te llevas 12 alitas jugosas al sabor que elijas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Presentación",
+        "options": [
+          {
+            "label": "Solo alitas ($11.99)",
+            "price": 11.99
+          },
+          {
+            "label": "Combo (papas + bebida) ($15.49)",
+            "price": 15.49
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "cb105e48-1a1b-4b67-ad07-79d8aeecf8f8",
+    "slug": "agua-500ml",
+    "nombre": "Agua 500ml",
+    "precio": "0.75",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Agua sin gas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "27a46984-6660-4e19-9553-ecf373c3a209",
+    "slug": "aros-de-cebolla",
+    "nombre": "Aros de Cebolla",
+    "precio": "3.50",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Aros de cebolla apanados y dorados, crujientes por fuera.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "03864f1f-f568-453b-bca7-3460e9344b0d",
+    "slug": "boneless-200g",
+    "nombre": "Boneless 200g",
+    "precio": "6.99",
+    "precio_promo": "",
+    "categorias": [
+      "boneless"
+    ],
+    "descripcion": "Pechuga de pollo crocante sin hueso, bañada en tu salsa favorita.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "2dd2dd7c-2436-42cf-ad9d-e77356f9413b",
+    "slug": "boneless-400g",
+    "nombre": "Boneless 400g",
+    "precio": "11.99",
+    "precio_promo": "",
+    "categorias": [
+      "boneless"
+    ],
+    "descripcion": "Doble porción de boneless para el antojo grande.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "234247de-c455-485e-ac7f-059b6f436bca",
+    "slug": "boneless-combo",
+    "nombre": "Boneless Combo",
+    "precio": "9.99",
+    "precio_promo": "",
+    "categorias": [
+      "boneless"
+    ],
+    "descripcion": "Boneless 200g + papas + bebida al sabor que elijas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "BBQ",
+          "Buffalo",
+          "Honey Mustard",
+          "BBQ Picante",
+          "Maracuyá",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Mango Habanero",
+          "Nashville Hot",
+          "BBQ Miel"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "2cf5edf8-0178-4d8e-b985-a4524c60cf9f",
+    "slug": "cola-15l",
+    "nombre": "Cola 1.5L",
+    "precio": "2.75",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Gaseosa 1.5L para compartir.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Cola negra",
+          "Naranja",
+          "Limón"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "c5a88ef3-4542-4717-b598-f515b4c1ea23",
+    "slug": "cola-personal",
+    "nombre": "Cola Personal",
+    "precio": "1.25",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Bebida gaseosa 355ml bien fría.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Cola negra",
+          "Naranja",
+          "Limón"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "3cc4b029-ff48-4a48-90f3-a6fe18164246",
+    "slug": "dedos-de-queso",
+    "nombre": "Dedos de Queso",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "6 sticks de mozzarella empanizados, servidos con salsa marinara.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "4c4e6a97-eed1-4fb4-9992-886af4876059",
+    "slug": "limonada-natural",
+    "nombre": "Limonada Natural",
+    "precio": "1.75",
+    "precio_promo": "",
+    "categorias": [
+      "bebidas"
+    ],
+    "descripcion": "Limonada fresca del día, endulzada al punto.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9036627c-5891-4a89-aec2-13f999b04709",
+    "slug": "papas-brutales",
+    "nombre": "Papas Brutales",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Papas cargadas con queso cheddar fundido y tocino crocante.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c51085a3-31bf-4d4b-834a-1b4c0832c9b2",
+    "slug": "papas-fritas",
+    "nombre": "Papas Fritas",
+    "precio": "2.99",
+    "precio_promo": "",
+    "categorias": [
+      "acompanamientos"
+    ],
+    "descripcion": "Papas crocantes cortadas a mano con sal de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "540b1001-2d9d-4381-b5ec-745fdd7c0bbf",
+    "slug": "salsa-extra-bbq",
+    "nombre": "Salsa Extra BBQ",
+    "precio": "0.75",
+    "precio_promo": "",
+    "categorias": [
+      "salsas"
+    ],
+    "descripcion": "Porción adicional de salsa BBQ de la casa.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7f74ae5d-aabb-45e5-b9ad-efa1d9a7a9f8",
+    "slug": "salsa-extra-bufalo",
+    "nombre": "Salsa Extra Búfalo",
+    "precio": "0.75",
+    "precio_promo": "",
+    "categorias": [
+      "salsas"
+    ],
+    "descripcion": "Porción adicional de salsa búfalo picante.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b66ef8c0-f773-477f-a7ff-03de333e32fb",
+    "slug": "salsa-honey-mustard",
+    "nombre": "Salsa Honey Mustard",
+    "precio": "0.75",
+    "precio_promo": "",
+    "categorias": [
+      "salsas"
+    ],
+    "descripcion": "Miel y mostaza, dulce con carácter.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1918f8be-a8ad-4c32-a3cd-ac5bb78153a5",
+    "slug": "salsa-ranch",
+    "nombre": "Salsa Ranch",
+    "precio": "0.75",
+    "precio_promo": "",
+    "categorias": [
+      "salsas"
+    ],
+    "descripcion": "Dip ranch cremoso para tus alitas.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  }
+]
