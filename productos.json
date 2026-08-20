@@ -190,7 +190,9 @@
     ],
     "descripcion": "Pides 50, recibes 75. Modo brutal desatado.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/50-alitas-recibes-75/images/50-alitas-recibes-75-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
