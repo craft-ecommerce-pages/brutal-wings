@@ -599,7 +599,7 @@
       "salsas"
     ],
     "descripcion": "Dip ranch cremoso para tus alitas.",
-    "stock": null,
+    "stock": 0,
     "imagenes": [
       "/producto/salsa-ranch/images/salsa-ranch-1.webp"
     ],
