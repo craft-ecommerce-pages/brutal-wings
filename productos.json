@@ -516,7 +516,9 @@
     ],
     "descripcion": "Porción adicional de salsa BBQ de la casa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/salsa-extra-bbq/images/salsa-extra-bbq-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
