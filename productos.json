@@ -531,7 +531,9 @@
     ],
     "descripcion": "Porción adicional de salsa búfalo picante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/salsa-extra-bufalo/images/salsa-extra-bufalo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
