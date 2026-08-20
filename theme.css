@@ -71,5 +71,5 @@ body{
 
 /* ── Barra sticky: transparente para dejar pasar el degradado del fondo;
    el blur mantiene legibilidad al hacer scroll. Sin caja extra en el buscador. ── */
-.sticky-bar{background:transparent;border-bottom:none;backdrop-filter:blur(8px)}
+.sticky-bar{background:rgba(10,7,5,.92);border-bottom:1px solid var(--border);backdrop-filter:blur(10px)}
 .search-box input{background:rgba(36,22,16,.55);border-color:var(--border);backdrop-filter:blur(14px)}
