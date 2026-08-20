@@ -496,7 +496,9 @@
     ],
     "descripcion": "Papas cargadas con queso cheddar fundido y tocino crocante.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-brutales/images/papas-brutales-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
