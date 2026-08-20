@@ -10,7 +10,9 @@
     ],
     "descripcion": "Pides 12, recibes 18. Ideal para compartir entre dos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/12-alitas-recibes-18/images/12-alitas-recibes-18-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
