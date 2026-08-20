@@ -145,7 +145,9 @@
     ],
     "descripcion": "Pides 40, recibes 60. Nivel fiesta.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/40-alitas-recibes-60/images/40-alitas-recibes-60-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
