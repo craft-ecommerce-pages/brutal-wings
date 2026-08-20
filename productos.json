@@ -297,7 +297,9 @@
     ],
     "descripcion": "Aros de cebolla apanados y dorados, crujientes por fuera.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/aros-de-cebolla/images/aros-de-cebolla-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
