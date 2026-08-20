@@ -314,7 +314,9 @@
     ],
     "descripcion": "Pechuga de pollo crocante sin hueso, bañada en tu salsa favorita.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/boneless-200g/images/boneless-200g-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
