@@ -100,7 +100,9 @@
     ],
     "descripcion": "Pides 30, recibes 45. El combo del grupo.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/30-alitas-recibes-45/images/30-alitas-recibes-45-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
