@@ -460,7 +460,9 @@
     ],
     "descripcion": "6 sticks de mozzarella empanizados, servidos con salsa marinara.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/dedos-de-queso/images/dedos-de-queso-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
