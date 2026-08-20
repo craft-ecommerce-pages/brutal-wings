@@ -433,7 +433,9 @@
     ],
     "descripcion": "Bebida gaseosa 355ml bien fría.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cola-personal/images/cola-personal-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
