@@ -280,7 +280,9 @@
     ],
     "descripcion": "Agua sin gas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/agua-500ml/images/agua-500ml-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
