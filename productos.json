@@ -348,7 +348,9 @@
     ],
     "descripcion": "Doble porción de boneless para el antojo grande.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/boneless-400g/images/boneless-400g-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
