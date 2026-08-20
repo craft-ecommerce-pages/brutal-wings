@@ -1,0 +1,20 @@
+{
+  "badge_category": "alitas",
+  "categories": {
+    "acompanamientos": "🍟 Acompañamientos",
+    "alitas": "🔥 Alitas Brutales",
+    "bebidas": "🥤 Bebidas",
+    "boneless": "🍗 Boneless",
+    "salsas": "🧂 Salsas Extra"
+  },
+  "currency": "$",
+  "hero_title": "Alitas \u003cspan class=\"hl\"\u003ebrutales\u003c/span\u003e 🔥 más sabor, más actitud",
+  "location_intro": "Pusuquí · Manuel Córdova Galarza y El Vergel",
+  "logo": "logo.png",
+  "site_title": "Brutal Wings – Alitas Brutales | Pusuquí, Quito",
+  "store_name": "Brutal Wings",
+  "theme_accent": "#E4231C",
+  "theme_primary": "#F7751F",
+  "whatsapp_message": "¡Hola Brutal Wings! 🔥 Quiero pedir mis alitas brutales:",
+  "whatsapp_number": "593996043395"
+}
