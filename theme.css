@@ -69,6 +69,7 @@ body{
   border-color:var(--primary);background:rgba(247,117,31,.14);color:var(--text);
 }
 
-/* ── Barra sticky ── */
-.sticky-bar{background:rgba(10,7,5,.92);border-bottom:1px solid var(--border);backdrop-filter:blur(10px)}
-.search-box{background:var(--surface-2);border:1px solid var(--border)}
+/* ── Barra sticky: transparente para dejar pasar el degradado del fondo;
+   el blur mantiene legibilidad al hacer scroll. Sin caja extra en el buscador. ── */
+.sticky-bar{background:transparent;border-bottom:none;backdrop-filter:blur(8px)}
+.search-box input{background:rgba(36,22,16,.55);border-color:var(--border);backdrop-filter:blur(14px)}
