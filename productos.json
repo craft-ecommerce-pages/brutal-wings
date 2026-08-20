@@ -513,7 +513,9 @@
     ],
     "descripcion": "Papas crocantes cortadas a mano con sal de la casa.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-fritas/images/papas-fritas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
