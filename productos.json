@@ -55,7 +55,9 @@
     ],
     "descripcion": "Pides 20, recibes 30. Para el hambre en serio.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/20-alitas-recibes-30/images/20-alitas-recibes-30-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
