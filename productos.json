@@ -245,7 +245,9 @@
     ],
     "descripcion": "3x2 brutal: pides 8, te llevas 12 alitas jugosas al sabor que elijas.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/8-alitas-recibes-12/images/8-alitas-recibes-12-1.webp"
+    ],
     "variantes": [
       {
         "name": "Sabor",
