@@ -19,7 +19,7 @@
     "tex-mex": "🌮 Tex-Mex"
   },
   "currency": "$",
-  "hero_title": "Alitas \u003cspan class=\"hl\"\u003ebrutales\u003c/span\u003e 🔥 más sabor, más actitud",
+  "hero_title": "Alitas <span class=\"hl\">brutales</span> 🔥 más sabor, más actitud",
   "location_intro": "Pusuquí · Manuel Córdova Galarza y El Vergel",
   "logo": "logo.png",
   "site_title": "Brutal Wings – Alitas Brutales | Pusuquí, Quito",
@@ -27,5 +27,23 @@
   "theme_accent": "#E4231C",
   "theme_primary": "#F7751F",
   "whatsapp_message": "¡Hola Brutal Wings! 🔥 Quiero pedir mis alitas brutales:",
-  "whatsapp_number": "593962672254"
+  "whatsapp_number": "593962672254",
+  "category_order": [
+    "alitas",
+    "balls",
+    "ribs",
+    "burgers",
+    "fries",
+    "bites",
+    "tex-mex",
+    "salads",
+    "flags",
+    "lunch",
+    "kids",
+    "postres",
+    "frozen",
+    "bebidas",
+    "cocteles",
+    "micheladas"
+  ]
 }
