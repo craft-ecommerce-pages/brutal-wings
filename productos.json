@@ -1,608 +1,1041 @@
 [
   {
-    "id": "bcabd42a-a1c1-45d5-aee4-a55515e01736",
-    "slug": "12-alitas-recibes-18",
-    "nombre": "12 Alitas — recibes 18",
-    "precio": "14.99",
+    "id": "b5940788-a5ef-4e46-a6b4-fe57443a4ade",
+    "slug": "amaretto-sour",
+    "nombre": "Amaretto Sour",
+    "precio": "7.49",
     "precio_promo": "",
-    "categorias": [
-      "alitas"
-    ],
-    "descripcion": "Pides 12, recibes 18. Ideal para compartir entre dos.",
-    "stock": null,
-    "imagenes": [
-      "/producto/12-alitas-recibes-18/images/12-alitas-recibes-18-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Presentación",
-        "options": [
-          {
-            "label": "Solo alitas ($14.99)",
-            "price": 14.99
-          },
-          {
-            "label": "Combo (papas + bebida) ($18.49)",
-            "price": 18.49
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "eca8c1db-d624-48f3-87cc-11ccaba37761",
-    "slug": "20-alitas-recibes-30",
-    "nombre": "20 Alitas — recibes 30",
-    "precio": "23.99",
-    "precio_promo": "",
-    "categorias": [
-      "alitas"
-    ],
-    "descripcion": "Pides 20, recibes 30. Para el hambre en serio.",
-    "stock": null,
-    "imagenes": [
-      "/producto/20-alitas-recibes-30/images/20-alitas-recibes-30-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Presentación",
-        "options": [
-          {
-            "label": "Solo alitas ($23.99)",
-            "price": 23.99
-          },
-          {
-            "label": "Combo (papas + bebida) ($27.49)",
-            "price": 27.49
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "ea7b5ff3-8476-49a6-8c32-47356d3343b4",
-    "slug": "30-alitas-recibes-45",
-    "nombre": "30 Alitas — recibes 45",
-    "precio": "29.99",
-    "precio_promo": "",
-    "categorias": [
-      "alitas"
-    ],
-    "descripcion": "Pides 30, recibes 45. El combo del grupo.",
-    "stock": null,
-    "imagenes": [
-      "/producto/30-alitas-recibes-45/images/30-alitas-recibes-45-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Presentación",
-        "options": [
-          {
-            "label": "Solo alitas ($29.99)",
-            "price": 29.99
-          },
-          {
-            "label": "Combo (papas + bebida) ($33.49)",
-            "price": 33.49
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "e5f99d26-c85d-4bf1-b4d1-4fa0d3fd8a30",
-    "slug": "40-alitas-recibes-60",
-    "nombre": "40 Alitas — recibes 60",
-    "precio": "39.99",
-    "precio_promo": "",
-    "categorias": [
-      "alitas"
-    ],
-    "descripcion": "Pides 40, recibes 60. Nivel fiesta.",
-    "stock": null,
-    "imagenes": [
-      "/producto/40-alitas-recibes-60/images/40-alitas-recibes-60-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Presentación",
-        "options": [
-          {
-            "label": "Solo alitas ($39.99)",
-            "price": 39.99
-          },
-          {
-            "label": "Combo (papas + bebida) ($43.49)",
-            "price": 43.49
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "38ee8d6c-c378-4925-a972-8e34b914f62d",
-    "slug": "50-alitas-recibes-75",
-    "nombre": "50 Alitas — recibes 75",
-    "precio": "49.99",
-    "precio_promo": "",
-    "categorias": [
-      "alitas"
-    ],
-    "descripcion": "Pides 50, recibes 75. Modo brutal desatado.",
-    "stock": null,
-    "imagenes": [
-      "/producto/50-alitas-recibes-75/images/50-alitas-recibes-75-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Presentación",
-        "options": [
-          {
-            "label": "Solo alitas ($49.99)",
-            "price": 49.99
-          },
-          {
-            "label": "Combo (papas + bebida) ($53.49)",
-            "price": 53.49
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "eac69ea7-83e5-4640-806f-9b0a912c03e1",
-    "slug": "8-alitas-recibes-12",
-    "nombre": "8 Alitas — recibes 12",
-    "precio": "11.99",
-    "precio_promo": "",
-    "categorias": [
-      "alitas"
-    ],
-    "descripcion": "3x2 brutal: pides 8, te llevas 12 alitas jugosas al sabor que elijas.",
-    "stock": null,
-    "imagenes": [
-      "/producto/8-alitas-recibes-12/images/8-alitas-recibes-12-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Presentación",
-        "options": [
-          {
-            "label": "Solo alitas ($11.99)",
-            "price": 11.99
-          },
-          {
-            "label": "Combo (papas + bebida) ($15.49)",
-            "price": 15.49
-          }
-        ]
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "cb105e48-1a1b-4b67-ad07-79d8aeecf8f8",
-    "slug": "agua-500ml",
-    "nombre": "Agua 500ml",
-    "precio": "0.75",
-    "precio_promo": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "descripcion": "Agua sin gas.",
-    "stock": null,
-    "imagenes": [
-      "/producto/agua-500ml/images/agua-500ml-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "27a46984-6660-4e19-9553-ecf373c3a209",
-    "slug": "aros-de-cebolla",
-    "nombre": "Aros de Cebolla",
-    "precio": "3.50",
-    "precio_promo": "",
-    "categorias": [
-      "acompanamientos"
-    ],
-    "descripcion": "Aros de cebolla apanados y dorados, crujientes por fuera.",
-    "stock": null,
-    "imagenes": [
-      "/producto/aros-de-cebolla/images/aros-de-cebolla-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "03864f1f-f568-453b-bca7-3460e9344b0d",
-    "slug": "boneless-200g",
-    "nombre": "Boneless 200g",
-    "precio": "6.99",
-    "precio_promo": "",
-    "categorias": [
-      "boneless"
-    ],
-    "descripcion": "Pechuga de pollo crocante sin hueso, bañada en tu salsa favorita.",
-    "stock": null,
-    "imagenes": [
-      "/producto/boneless-200g/images/boneless-200g-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "2dd2dd7c-2436-42cf-ad9d-e77356f9413b",
-    "slug": "boneless-400g",
-    "nombre": "Boneless 400g",
-    "precio": "11.99",
-    "precio_promo": "",
-    "categorias": [
-      "boneless"
-    ],
-    "descripcion": "Doble porción de boneless para el antojo grande.",
-    "stock": null,
-    "imagenes": [
-      "/producto/boneless-400g/images/boneless-400g-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "234247de-c455-485e-ac7f-059b6f436bca",
-    "slug": "boneless-combo",
-    "nombre": "Boneless Combo",
-    "precio": "9.99",
-    "precio_promo": "",
-    "categorias": [
-      "boneless"
-    ],
-    "descripcion": "Boneless 200g + papas + bebida al sabor que elijas.",
-    "stock": null,
-    "imagenes": [
-      "/producto/boneless-combo/images/boneless-combo-1.webp",
-      "/producto/boneless-combo/images/boneless-combo-2.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "BBQ",
-          "Buffalo",
-          "Honey Mustard",
-          "BBQ Picante",
-          "Maracuyá",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Mango Habanero",
-          "Nashville Hot",
-          "BBQ Miel"
-        ],
-        "type": "option"
-      }
-    ],
-    "sku": ""
-  },
-  {
-    "id": "2cf5edf8-0178-4d8e-b985-a4524c60cf9f",
-    "slug": "cola-15l",
-    "nombre": "Cola 1.5L",
-    "precio": "2.75",
-    "precio_promo": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "descripcion": "Gaseosa 1.5L para compartir.",
+    "categorias": [],
+    "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "Cola negra",
-          "Naranja",
-          "Limón"
-        ],
-        "type": "option"
-      }
-    ],
+    "variantes": [],
     "sku": ""
   },
   {
-    "id": "c5a88ef3-4542-4717-b598-f515b4c1ea23",
-    "slug": "cola-personal",
-    "nombre": "Cola Personal",
-    "precio": "1.25",
+    "id": "73b3ed94-bfa0-488f-b481-1ac4436a3767",
+    "slug": "aperol-spritz",
+    "nombre": "Aperol Spritz",
+    "precio": "8.99",
     "precio_promo": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "descripcion": "Bebida gaseosa 355ml bien fría.",
+    "categorias": [],
+    "descripcion": "",
     "stock": null,
-    "imagenes": [
-      "/producto/cola-personal/images/cola-personal-1.webp"
-    ],
-    "variantes": [
-      {
-        "name": "Sabor",
-        "options": [
-          "Cola negra",
-          "Naranja",
-          "Limón"
-        ],
-        "type": "option"
-      }
-    ],
+    "imagenes": null,
+    "variantes": [],
     "sku": ""
   },
   {
-    "id": "3cc4b029-ff48-4a48-90f3-a6fe18164246",
-    "slug": "dedos-de-queso",
-    "nombre": "Dedos de Queso",
+    "id": "24ef81aa-3569-4324-a782-4281b25c8ffa",
+    "slug": "aritos-de-cebolla",
+    "nombre": "Aritos de Cebolla",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b9035b48-8088-46de-bf59-f47153cc7ce2",
+    "slug": "brutal-balls-12-piezas",
+    "nombre": "Brutal Balls 12 piezas",
+    "precio": "7.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Incluye papas fritas y salsa a elegir",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "690e4c3f-fa26-42e3-81c0-86abef299dd6",
+    "slug": "brutal-balls-8-piezas",
+    "nombre": "Brutal Balls 8 piezas",
+    "precio": "5.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Incluye papas fritas y salsa a elegir",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1357af7c-b679-4929-97c3-6ca84d61d379",
+    "slug": "brutal-ribs",
+    "nombre": "Brutal Ribs",
+    "precio": "15.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Costillas + papas fritas + ensalada + salsa a elegir",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "766de63b-8f1f-4f49-8f82-3c5b6baecdba",
+    "slug": "brutal-wings-12-piezas",
+    "nombre": "Brutal Wings 12 piezas",
+    "precio": "15.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Con tu salsa brutal favorita",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c0be632b-f716-417e-a037-5a1a6b64de86",
+    "slug": "brutal-wings-20-piezas",
+    "nombre": "Brutal Wings 20 piezas",
+    "precio": "24.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Con tu salsa brutal favorita",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "3529a214-5476-450b-b700-241f28979c7f",
+    "slug": "brutal-wings-25-piezas",
+    "nombre": "Brutal Wings 25 piezas",
+    "precio": "28.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Con tu salsa brutal favorita",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7024b21e-f7ef-46a5-81dd-903a2f88e892",
+    "slug": "brutal-wings-6-piezas",
+    "nombre": "Brutal Wings 6 piezas",
+    "precio": "10.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Con tu salsa brutal favorita",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1d705d5a-b7ed-4ce3-9e8f-3b56fd486504",
+    "slug": "brutal-wings-8-piezas",
+    "nombre": "Brutal Wings 8 piezas",
+    "precio": "12.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Con tu salsa brutal favorita",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "3c293a9f-37ed-40f5-9ee2-f001b6e5bf1e",
+    "slug": "buffalo-chicken-salad",
+    "nombre": "Buffalo Chicken Salad",
+    "precio": "6.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "aac80c32-442f-463f-b8ee-0232b79f5ee1",
+    "slug": "bulldog",
+    "nombre": "Bulldog",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "48c0d0c6-ff23-4c21-9bf6-7e2ee7626ae4",
+    "slug": "burritos",
+    "nombre": "Burritos",
+    "precio": "9.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1dc79d7f-2f21-4353-b4ee-540cd3fc672e",
+    "slug": "cake-de-zanahoria",
+    "nombre": "Cake de Zanahoria",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "144709ce-6046-4391-b2ec-61c18ecd470f",
+    "slug": "cake-ingles",
+    "nombre": "Cake Inglés",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "cc50d6f5-d30e-475d-a849-372c242b2900",
+    "slug": "cheese-bacon-burger",
+    "nombre": "Cheese Bacon Burger",
+    "precio": "7.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8fa5d405-41c9-496d-9a3f-9ed7e816b955",
+    "slug": "cheese-burger",
+    "nombre": "Cheese Burger",
+    "precio": "6.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "37400372-4149-4497-837f-bc5803723394",
+    "slug": "chicken-burger",
+    "nombre": "Chicken Burger",
+    "precio": "5.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "3c1233d6-9667-46ed-8a66-881f08f1f9ee",
+    "slug": "chicken-caesar-salad",
+    "nombre": "Chicken Caesar Salad",
+    "precio": "6.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e2db0d22-26dc-464e-8729-397ffd10fdc0",
+    "slug": "chief-garden-salad",
+    "nombre": "Chief Garden Salad",
+    "precio": "5.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f49b2032-ac66-4b91-9d04-06eedf748971",
+    "slug": "copa-de-sangria",
+    "nombre": "Copa de Sangría",
     "precio": "4.99",
     "precio_promo": "",
-    "categorias": [
-      "acompanamientos"
-    ],
-    "descripcion": "6 sticks de mozzarella empanizados, servidos con salsa marinara.",
+    "categorias": [],
+    "descripcion": "",
     "stock": null,
-    "imagenes": [
-      "/producto/dedos-de-queso/images/dedos-de-queso-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "4c4e6a97-eed1-4fb4-9992-886af4876059",
-    "slug": "limonada-natural",
-    "nombre": "Limonada Natural",
-    "precio": "1.75",
+    "id": "271c54d1-3fd0-4416-8ed6-78ec49ea3df4",
+    "slug": "copa-de-vino",
+    "nombre": "Copa de Vino",
+    "precio": "3.99",
     "precio_promo": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "descripcion": "Limonada fresca del día, endulzada al punto.",
+    "categorias": [],
+    "descripcion": "",
     "stock": null,
-    "imagenes": [
-      "/producto/limonada-natural/images/limonada-natural-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "9036627c-5891-4a89-aec2-13f999b04709",
-    "slug": "papas-brutales",
-    "nombre": "Papas Brutales",
-    "precio": "4.99",
+    "id": "5face7c5-0c8a-4622-a277-4d7a9b140d89",
+    "slug": "cuba-libre",
+    "nombre": "Cuba Libre",
+    "precio": "7.49",
     "precio_promo": "",
-    "categorias": [
-      "acompanamientos"
-    ],
-    "descripcion": "Papas cargadas con queso cheddar fundido y tocino crocante.",
+    "categorias": [],
+    "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": [
-      "/producto/papas-brutales/images/papas-brutales-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "c51085a3-31bf-4d4b-834a-1b4c0832c9b2",
-    "slug": "papas-fritas",
-    "nombre": "Papas Fritas",
+    "id": "0a5f56a4-6b19-447e-82b0-9c9aade006c6",
+    "slug": "deditos-de-queso",
+    "nombre": "Deditos de Queso",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a5092bfb-6ec5-43eb-a811-8ec3cc070cd8",
+    "slug": "electric-lemonade",
+    "nombre": "Electric Lemonade",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "e85820f9-2df7-433a-9993-907b019569ce",
+    "slug": "enchiladas",
+    "nombre": "Enchiladas",
+    "precio": "9.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8d2e71b7-5bf8-4213-98bf-1c53cf2fc663",
+    "slug": "gaseosa",
+    "nombre": "Gaseosa",
+    "precio": "1.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Coca Cola, Fanta, Inca Cola, Sprite, Diet Coke, Fuze Tea, Agua con Gas, Agua sin Gas",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "05bfb228-d880-4e11-8dbb-2fc351f0ca17",
+    "slug": "gin-tonic",
+    "nombre": "Gin \u0026 Tonic",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "2x1 todos los días",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1672087e-9755-4cba-8030-226d602bb79a",
+    "slug": "helado-artesanal-cacao",
+    "nombre": "Helado Artesanal Cacao",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "0a97940b-6e3e-4182-a719-c77cd444dc7a",
+    "slug": "helado-artesanal-chocolate",
+    "nombre": "Helado Artesanal Chocolate",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ebf31f93-24e5-44d4-aeb3-1b8683ca3b09",
+    "slug": "helado-artesanal-mandarina",
+    "nombre": "Helado Artesanal Mandarina",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5a7b8ce3-f23b-40ad-b0b0-31e5646aa6b1",
+    "slug": "helado-artesanal-maracumanga",
+    "nombre": "Helado Artesanal Maracumanga",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c9a690df-9a3f-49da-94f3-d513d44652be",
+    "slug": "helado-artesanal-maracuya",
+    "nombre": "Helado Artesanal Maracuyá",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "6543fcb0-d1c3-4b98-b5ca-9a4298f31cc9",
+    "slug": "helado-artesanal-mora-paila",
+    "nombre": "Helado Artesanal Mora Paila",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d71413fd-e1a5-427f-9434-e64ac9b96ec5",
+    "slug": "helado-artesanal-oreo",
+    "nombre": "Helado Artesanal Oreo",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "22a5eea9-e093-4db9-84b9-5b190d018760",
+    "slug": "jack-daniels",
+    "nombre": "Jack Daniel's",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "2d94882d-f613-4a30-b65f-908c61d679ec",
+    "slug": "jager-boom",
+    "nombre": "Jager Boom",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7a47b069-0ed8-415e-8044-6a9fd920a6d4",
+    "slug": "jalapeno-burger",
+    "nombre": "Jalapeño Burger",
+    "precio": "7.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7e4c2e88-e8b6-4539-b7eb-bc5cc4b96588",
+    "slug": "jalisco-mule",
+    "nombre": "Jalisco Mule",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8cec6ddf-d38b-47a2-8733-d8dc8e9007cc",
+    "slug": "jugo-natural",
+    "nombre": "Jugo Natural",
     "precio": "2.99",
     "precio_promo": "",
-    "categorias": [
-      "acompanamientos"
-    ],
-    "descripcion": "Papas crocantes cortadas a mano con sal de la casa.",
+    "categorias": [],
+    "descripcion": "Mora, Maracuyá, Piñadiña",
     "stock": null,
-    "imagenes": [
-      "/producto/papas-fritas/images/papas-fritas-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "540b1001-2d9d-4381-b5ec-745fdd7c0bbf",
-    "slug": "salsa-extra-bbq",
-    "nombre": "Salsa Extra BBQ",
-    "precio": "0.75",
+    "id": "223e8ebc-c62d-4d5d-b6c3-4f855059a322",
+    "slug": "limonada",
+    "nombre": "Limonada",
+    "precio": "2.99",
     "precio_promo": "",
-    "categorias": [
-      "salsas"
-    ],
-    "descripcion": "Porción adicional de salsa BBQ de la casa.",
+    "categorias": [],
+    "descripcion": "Natural, Pink, Jengibre, Frutilla y Menta, Albahaca, Hierba Buena",
     "stock": null,
-    "imagenes": [
-      "/producto/salsa-extra-bbq/images/salsa-extra-bbq-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "7f74ae5d-aabb-45e5-b9ad-efa1d9a7a9f8",
-    "slug": "salsa-extra-bufalo",
-    "nombre": "Salsa Extra Búfalo",
-    "precio": "0.75",
+    "id": "0597f0c1-62ed-430e-a7d7-109d1232e963",
+    "slug": "long-island-iced-tea",
+    "nombre": "Long Island Iced Tea",
+    "precio": "8.99",
     "precio_promo": "",
-    "categorias": [
-      "salsas"
-    ],
-    "descripcion": "Porción adicional de salsa búfalo picante.",
+    "categorias": [],
+    "descripcion": "",
     "stock": null,
-    "imagenes": [
-      "/producto/salsa-extra-bufalo/images/salsa-extra-bufalo-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "b66ef8c0-f773-477f-a7ff-03de333e32fb",
-    "slug": "salsa-honey-mustard",
-    "nombre": "Salsa Honey Mustard",
-    "precio": "0.75",
+    "id": "7c0c84e3-ac59-442e-9d52-1e17949122e4",
+    "slug": "lunch-carne-a-la-plancha",
+    "nombre": "Lunch Carne a la Plancha",
+    "precio": "7.49",
     "precio_promo": "",
-    "categorias": [
-      "salsas"
-    ],
-    "descripcion": "Miel y mostaza, dulce con carácter.",
+    "categorias": [],
+    "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
-    "imagenes": [
-      "/producto/salsa-honey-mustard/images/salsa-honey-mustard-1.webp"
-    ],
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   },
   {
-    "id": "1918f8be-a8ad-4c32-a3cd-ac5bb78153a5",
-    "slug": "salsa-ranch",
-    "nombre": "Salsa Ranch",
-    "precio": "0.75",
+    "id": "e3e97c32-ba67-4833-8321-60a7f398a0de",
+    "slug": "lunch-chicken-fingers",
+    "nombre": "Lunch Chicken Fingers",
+    "precio": "7.49",
     "precio_promo": "",
-    "categorias": [
-      "salsas"
-    ],
-    "descripcion": "Dip ranch cremoso para tus alitas.",
+    "categorias": [],
+    "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
-    "imagenes": [
-      "/producto/salsa-ranch/images/salsa-ranch-1.webp"
-    ],
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "aa9a3bdf-c644-462d-8f37-77ded4b45063",
+    "slug": "lunch-chuleta-ahumada-y-chorizo",
+    "nombre": "Lunch Chuleta Ahumada y Chorizo",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "9708d59a-f595-4032-b946-65ca1b4d5ed2",
+    "slug": "lunch-pollo-a-la-plancha",
+    "nombre": "Lunch Pollo a la Plancha",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "eb7312c0-16e4-40ca-8714-63c02c261d27",
+    "slug": "medium-flag",
+    "nombre": "Medium Flag",
+    "precio": "13.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "6 alitas + 4 mini hamburguesas + porción de papas + deditos de queso",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "09515e62-ec50-4bdb-93aa-c28341c621b8",
+    "slug": "micheladas-clasicas-2x",
+    "nombre": "Micheladas Clásicas 2x",
+    "precio": "5.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "2 micheladas clásicas",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "477db4ec-60dc-4005-b435-c15a99d56ffc",
+    "slug": "micheladas-clasicas-3x",
+    "nombre": "Micheladas Clásicas 3x",
+    "precio": "7.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "3 micheladas clásicas",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "31180bae-6c91-490e-8087-ea2736a6d77a",
+    "slug": "micheladas-sabores-3x",
+    "nombre": "Micheladas Sabores 3x",
+    "precio": "9.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "3 micheladas sabor: Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a6b20883-dc6a-4c80-90b6-641afebdc205",
+    "slug": "mini-burgers",
+    "nombre": "Mini Burgers",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Con papas fritas",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a7bdcec0-7854-45ef-acd2-9e74957ec686",
+    "slug": "mini-chicken-balls",
+    "nombre": "Mini Chicken Balls",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Con papas fritas",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "54974b58-1ee3-4fc1-a49c-dcf95e375e9b",
+    "slug": "mini-chicken-fingers",
+    "nombre": "Mini Chicken Fingers",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Con papas fritas",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "8e8907f0-04b0-452a-9b6c-4681191170fe",
+    "slug": "mini-nachos",
+    "nombre": "Mini Nachos",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a36b7ce0-b330-4969-ae82-bb2c06c6ef77",
+    "slug": "mojito-clasico",
+    "nombre": "Mojito Clásico",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "2x1 todos los días",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "faf6209d-24cb-47d0-9e4e-9d760594b218",
+    "slug": "mojito-maracuya",
+    "nombre": "Mojito Maracuyá",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "2x1 todos los días",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "52b512b3-9a95-4853-91b1-6475d8bb77db",
+    "slug": "mojito-strawberry",
+    "nombre": "Mojito Strawberry",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "2x1 todos los días",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d56ad125-f77b-4e43-af51-5c22c76e8a38",
+    "slug": "moscow",
+    "nombre": "Moscow",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "7168dafe-5a57-43e9-86dc-8cf75f8f5207",
+    "slug": "mousse-de-maracuya",
+    "nombre": "Mousse de Maracuyá",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "396b1c99-3985-49e8-b510-cefa39a0c7ed",
+    "slug": "nachos-de-carne",
+    "nombre": "Nachos de Carne",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "eb649710-00a5-4d57-9412-ab6d34c29b22",
+    "slug": "padrino",
+    "nombre": "Padrino",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "2x1 todos los días",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "27deffa1-5e58-45e9-a3e6-d0c0d8a30d60",
+    "slug": "paleta-de-hielo",
+    "nombre": "Paleta de Hielo",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Mora, Taxo, Naranjilla, Oreo, Chocolate, Yogurt, Coco, Come y Bebe, Maracuyá Sal",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "ee3557f4-af56-4152-8877-de19a8c27460",
+    "slug": "papas-cheese-bacon",
+    "nombre": "Papas Cheese Bacon",
+    "precio": "5.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "d239c6c2-3017-4a58-a3f6-2add8068f0b1",
+    "slug": "papas-clasicas",
+    "nombre": "Papas Clásicas",
+    "precio": "4.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a2e44a54-eb14-4229-a233-565d80b44526",
+    "slug": "papas-rusticas",
+    "nombre": "Papas Rústicas",
+    "precio": "4.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b56f782a-bfde-464e-822d-3dd834c0cbed",
+    "slug": "papas-skin-on",
+    "nombre": "Papas Skin On",
+    "precio": "4.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "0d2cdcda-bc45-43e9-beec-251542fc8c80",
+    "slug": "pastel-de-naranja",
+    "nombre": "Pastel de Naranja",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "6a617129-e723-448d-bd72-3911f12ba320",
+    "slug": "pijack-burger",
+    "nombre": "Pijack Burger",
+    "precio": "7.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "b320cf54-dfe4-4efd-b615-f545b19cdc89",
+    "slug": "pina-colada",
+    "nombre": "Piña Colada",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "2x1 todos los días",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "986644db-02b9-486f-bed4-f305997e81ef",
+    "slug": "quesadillas",
+    "nombre": "Quesadillas",
+    "precio": "9.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "fa1ad8d1-4c6e-48c2-aaa2-9ecb69a4cd2a",
+    "slug": "selva-negra",
+    "nombre": "Selva Negra",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a57e4552-46e0-4223-8718-23138be6c34c",
+    "slug": "shot-de-antioqueno",
+    "nombre": "Shot de Antioqueño",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "f189022c-6e29-462a-a07d-a324b5952613",
+    "slug": "shot-de-tequila",
+    "nombre": "Shot de Tequila",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "165dffbc-b1e9-467b-af0d-bc89471a40b9",
+    "slug": "strawberry-margarita",
+    "nombre": "Strawberry Margarita",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "a3091d94-d65f-43b5-9494-d28e6daf251a",
+    "slug": "super-flag",
+    "nombre": "Super Flag",
+    "precio": "19.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "8 alitas + 4 mini hamburguesas + camarones apanados + porción de papas + deditos de queso",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "1e07b36c-4c86-4215-8ec3-0448370424ec",
+    "slug": "tarteleta-de-frutilla",
+    "nombre": "Tarteleta de Frutilla",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "3999af94-a734-45bb-acb0-14e3d40d4078",
+    "slug": "te",
+    "nombre": "Té",
+    "precio": "2.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Limón, Frutos Rojos, Coco",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "efe47d39-9d9d-45c2-802f-5f424c1540a6",
+    "slug": "veggie-burger",
+    "nombre": "Veggie Burger",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "031f30d9-f1be-4b51-a828-4948813b8433",
+    "slug": "vino-hervido",
+    "nombre": "Vino Hervido",
+    "precio": "5.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "",
+    "stock": null,
+    "imagenes": null,
     "variantes": [],
     "sku": ""
   }
