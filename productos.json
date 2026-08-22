@@ -8,7 +8,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "2x1 todos los días",
+    "descripcion": "Suave y equilibrado: amaretto con limón y un toque de espuma. Dulce con carácter. (2x1 todos los días)",
     "stock": null,
     "imagenes": [
       "/producto/amaretto-sour/images/amaretto-sour-1.webp"
@@ -25,7 +25,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Refrescante y burbujeante: Aperol, prosecco y soda con naranja. El aperitivo italiano por excelencia.",
     "stock": null,
     "imagenes": [
       "/producto/aperol-spritz/images/aperol-spritz-1.webp"
@@ -42,7 +42,7 @@
     "categorias": [
       "bites"
     ],
-    "descripcion": "",
+    "descripcion": "Crujientes aros de cebolla apanados, dorados y calientes, con ese toque irresistible. Perfectos para picar, con su dip.",
     "stock": null,
     "imagenes": [
       "/producto/aritos-de-cebolla/images/aritos-de-cebolla-1.webp"
@@ -59,12 +59,38 @@
     "categorias": [
       "balls"
     ],
-    "descripcion": "Incluye papas fritas y salsa a elegir",
+    "descripcion": "12 crocantes bolitas de pollo apanado, doradas y jugosas, con papas fritas y tu salsa favorita a elegir. Para compartir... o no.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-balls-12-piezas/images/brutal-balls-12-piezas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -76,12 +102,38 @@
     "categorias": [
       "balls"
     ],
-    "descripcion": "Incluye papas fritas y salsa a elegir",
+    "descripcion": "8 crocantes bolitas de pollo apanado, doraditas por fuera y jugosas por dentro. Con papas fritas y la salsa que elijas. Imposible comer solo una.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-balls-8-piezas/images/brutal-balls-8-piezas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -93,12 +145,38 @@
     "categorias": [
       "ribs"
     ],
-    "descripcion": "Costillas + papas fritas + ensalada + salsa a elegir",
+    "descripcion": "Jugosas costillas de cerdo glaseadas en BBQ, tan tiernas que se desprenden del hueso. Con papas fritas, ensalada fresca y la salsa que elijas.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-ribs/images/brutal-ribs-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -110,12 +188,38 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "Con tu salsa brutal favorita",
+    "descripcion": "12 alitas de pollo bañadas en la salsa que elijas, doradas y jugosas en cada bocado. Con papas fritas, apio y dip. Ideal para el hambre en serio.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -127,12 +231,63 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "Con tu salsa brutal favorita",
+    "descripcion": "20 alitas de pollo para compartir, glaseadas en las salsas que elijas (elige 2), crocantes y jugosas. Con papas fritas, apio y dip. Perfectas para la mesa.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -144,12 +299,63 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "Con tu salsa brutal favorita",
+    "descripcion": "25 alitas de pollo para el grupo completo, bañadas en tus 2 salsas favoritas. Crocantes, jugosas y llenas de sabor, con papas fritas, apio y dip. La fiesta brutal.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -161,12 +367,38 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "Con tu salsa brutal favorita",
+    "descripcion": "6 jugosas alitas de pollo bañadas en la salsa brutal de tu elección, crujientes por fuera y tiernas por dentro. Acompañadas de papas fritas doradas, apio y su dip. El antojo perfecto para uno.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -178,12 +410,38 @@
     "categorias": [
       "alitas"
     ],
-    "descripcion": "Con tu salsa brutal favorita",
+    "descripcion": "8 jugosas alitas de pollo glaseadas en tu salsa brutal favorita, crocantes y llenas de sabor. Con papas fritas doradas, apio y dip. Imposible parar.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -195,7 +453,7 @@
     "categorias": [
       "salads"
     ],
-    "descripcion": "",
+    "descripcion": "Fresca ensalada con crocante pollo buffalo, lechuga, tomate cherry y aderezo. Ligera pero llena de sabor.",
     "stock": null,
     "imagenes": [
       "/producto/buffalo-chicken-salad/images/buffalo-chicken-salad-1.webp"
@@ -212,7 +470,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Intenso y atrevido, con su botellín volteado sobre la mezcla. Un trago para valientes.",
     "stock": null,
     "imagenes": [
       "/producto/bulldog/images/bulldog-1.webp"
@@ -229,7 +487,7 @@
     "categorias": [
       "tex-mex"
     ],
-    "descripcion": "",
+    "descripcion": "Burrito relleno de carne, arroz, frijoles y queso, envuelto en tortilla suave. Abundante y sabroso.",
     "stock": null,
     "imagenes": [
       "/producto/burritos/images/burritos-1.webp"
@@ -246,7 +504,7 @@
     "categorias": [
       "postres"
     ],
-    "descripcion": "",
+    "descripcion": "Húmedo cake de zanahoria con cremoso frosting de queso. Casero y delicioso.",
     "stock": null,
     "imagenes": [
       "/producto/cake-de-zanahoria/images/cake-de-zanahoria-1.webp"
@@ -263,7 +521,7 @@
     "categorias": [
       "postres"
     ],
-    "descripcion": "",
+    "descripcion": "Tradicional cake inglés cargado de frutas. Húmedo y lleno de sabor.",
     "stock": null,
     "imagenes": [
       "/producto/cake-ingles/images/cake-ingles-1.webp"
@@ -280,7 +538,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "",
+    "descripcion": "Doble carne jugosa a la parrilla, cheddar fundido y tocino crocante en pan brioche tostado, con lechuga fresca y tomate. Una explosión de sabor. Con papas.",
     "stock": null,
     "imagenes": [
       "/producto/cheese-bacon-burger/images/cheese-bacon-burger-1.webp"
@@ -297,7 +555,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "",
+    "descripcion": "Clásica hamburguesa de carne jugosa con cheddar fundido, lechuga y tomate en pan brioche tostado. Simple y perfecta. Con papas.",
     "stock": null,
     "imagenes": [
       "/producto/cheese-burger/images/cheese-burger-1.webp"
@@ -314,7 +572,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "",
+    "descripcion": "Crocante filete de pollo apanado, lechuga fresca, tomate y salsa cremosa en pan brioche tostado. Ligera y deliciosa. Con papas.",
     "stock": null,
     "imagenes": [
       "/producto/chicken-burger/images/chicken-burger-1.webp"
@@ -331,7 +589,7 @@
     "categorias": [
       "salads"
     ],
-    "descripcion": "",
+    "descripcion": "Clásica ensalada César con pollo a la parrilla, lechuga romana, parmesano y crotones. Fresca y completa.",
     "stock": null,
     "imagenes": [
       "/producto/chicken-caesar-salad/images/chicken-caesar-salad-1.webp"
@@ -348,7 +606,7 @@
     "categorias": [
       "salads"
     ],
-    "descripcion": "",
+    "descripcion": "Ensalada de la huerta con mix de vegetales frescos, tomate cherry y pepino. Sana y refrescante.",
     "stock": null,
     "imagenes": [
       "/producto/chief-garden-salad/images/chief-garden-salad-1.webp"
@@ -365,7 +623,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Copa de sangría con vino tinto y frutas frescas maceradas. Frutal y refrescante.",
     "stock": null,
     "imagenes": [
       "/producto/copa-de-sangria/images/copa-de-sangria-1.webp"
@@ -382,7 +640,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Copa de vino de la casa, ideal para acompañar tu comida.",
     "stock": null,
     "imagenes": [
       "/producto/copa-de-vino/images/copa-de-vino-1.webp"
@@ -399,7 +657,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "2x1 todos los días",
+    "descripcion": "El clásico infalible: ron, cola y limón bien frío. (2x1 todos los días)",
     "stock": null,
     "imagenes": [
       "/producto/cuba-libre/images/cuba-libre-1.webp"
@@ -416,7 +674,7 @@
     "categorias": [
       "bites"
     ],
-    "descripcion": "",
+    "descripcion": "Deditos de queso mozzarella apanados, crocantes por fuera y con un interior fundido que se estira en cada bocado. Servidos con su dip.",
     "stock": null,
     "imagenes": [
       "/producto/deditos-de-queso/images/deditos-de-queso-1.webp"
@@ -433,7 +691,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Vibrante y cítrico, con su color eléctrico. Refrescante y con chispa.",
     "stock": null,
     "imagenes": [
       "/producto/electric-lemonade/images/electric-lemonade-1.webp"
@@ -450,7 +708,7 @@
     "categorias": [
       "tex-mex"
     ],
-    "descripcion": "",
+    "descripcion": "Enchiladas bañadas en salsa roja y queso fundido gratinado. Tradicionales y llenas de sabor.",
     "stock": null,
     "imagenes": [
       "/producto/enchiladas/images/enchiladas-1.webp"
@@ -467,7 +725,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Coca Cola, Fanta, Inca Cola, Sprite, Diet Coke, Fuze Tea, Agua con Gas, Agua sin Gas",
+    "descripcion": "Refrescante gaseosa bien fría para acompañar tu antojo. Elige tu favorita.",
     "stock": null,
     "imagenes": [
       "/producto/gaseosa/images/gaseosa-1.webp"
@@ -484,7 +742,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "2x1 todos los días",
+    "descripcion": "Gin premium con tónica, hielo y limón. Burbujeante y aromático. (2x1 todos los días)",
     "stock": null,
     "imagenes": [
       "/producto/gin-tonic/images/gin-tonic-1.webp"
@@ -501,7 +759,7 @@
     "categorias": [
       "frozen"
     ],
-    "descripcion": "",
+    "descripcion": "Helado artesanal de cacao, cremoso e intenso. Puro chocolate en cada cucharada.",
     "stock": null,
     "imagenes": [
       "/producto/helado-artesanal-cacao/images/helado-artesanal-cacao-1.webp"
@@ -518,7 +776,7 @@
     "categorias": [
       "frozen"
     ],
-    "descripcion": "",
+    "descripcion": "Helado artesanal de chocolate, suave y cremoso. Para los amantes del chocolate.",
     "stock": null,
     "imagenes": [
       "/producto/helado-artesanal-chocolate/images/helado-artesanal-chocolate-1.webp"
@@ -535,7 +793,7 @@
     "categorias": [
       "frozen"
     ],
-    "descripcion": "",
+    "descripcion": "Helado artesanal de mandarina, fresco y cítrico. Refrescante y natural.",
     "stock": null,
     "imagenes": [
       "/producto/helado-artesanal-mandarina/images/helado-artesanal-mandarina-1.webp"
@@ -552,7 +810,7 @@
     "categorias": [
       "frozen"
     ],
-    "descripcion": "",
+    "descripcion": "Helado artesanal de maracumanga, la mezcla perfecta de maracuyá y mango. Tropical y único.",
     "stock": null,
     "imagenes": [
       "/producto/helado-artesanal-maracumanga/images/helado-artesanal-maracumanga-1.webp"
@@ -569,7 +827,7 @@
     "categorias": [
       "frozen"
     ],
-    "descripcion": "",
+    "descripcion": "Helado artesanal de maracuyá, cremoso con ese toque ácido irresistible.",
     "stock": null,
     "imagenes": [
       "/producto/helado-artesanal-maracuya/images/helado-artesanal-maracuya-1.webp"
@@ -586,7 +844,7 @@
     "categorias": [
       "frozen"
     ],
-    "descripcion": "",
+    "descripcion": "Helado artesanal de mora en paila, tradicional y cremoso. Sabor auténtico.",
     "stock": null,
     "imagenes": [
       "/producto/helado-artesanal-mora-paila/images/helado-artesanal-mora-paila-1.webp"
@@ -603,7 +861,7 @@
     "categorias": [
       "frozen"
     ],
-    "descripcion": "",
+    "descripcion": "Helado artesanal de Oreo, cremoso con trocitos de galleta. Un clásico consentido.",
     "stock": null,
     "imagenes": [
       "/producto/helado-artesanal-oreo/images/helado-artesanal-oreo-1.webp"
@@ -620,7 +878,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Whiskey Jack Daniel's servido como más te guste. Carácter puro de Tennessee.",
     "stock": null,
     "imagenes": [
       "/producto/jack-daniels/images/jack-daniels-1.webp"
@@ -637,7 +895,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Explosivo y energético, el shot que enciende la fiesta.",
     "stock": null,
     "imagenes": [
       "/producto/jager-boom/images/jager-boom-1.webp"
@@ -654,7 +912,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "",
+    "descripcion": "Carne a la parrilla con queso fundido, jalapeños en rodajas y salsa especial en pan brioche. Para los que aman el picante. Con papas.",
     "stock": null,
     "imagenes": [
       "/producto/jalapeno-burger/images/jalapeno-burger-1.webp"
@@ -671,7 +929,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Tequila, jengibre y limón en tarro helado. Picante, fresco y con actitud mexicana.",
     "stock": null,
     "imagenes": [
       "/producto/jalisco-mule/images/jalisco-mule-1.webp"
@@ -688,7 +946,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Mora, Maracuyá, Piñadiña",
+    "descripcion": "Jugo 100% natural preparado al momento con fruta fresca. Puro sabor, sin igual.",
     "stock": null,
     "imagenes": [
       "/producto/jugo-natural/images/jugo-natural-1.webp"
@@ -705,7 +963,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Natural, Pink, Jengibre, Frutilla y Menta, Albahaca, Hierba Buena",
+    "descripcion": "Limonada fresca y burbujeante, el refresco ideal para equilibrar el picante.",
     "stock": null,
     "imagenes": [
       "/producto/limonada/images/limonada-1.webp"
@@ -722,7 +980,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "La mezcla legendaria de cinco licores con un toque de cola. Potente y delicioso.",
     "stock": null,
     "imagenes": [
       "/producto/long-island-iced-tea/images/long-island-iced-tea-1.webp"
@@ -739,7 +997,7 @@
     "categorias": [
       "lunch"
     ],
-    "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
+    "descripcion": "Jugosa carne a la plancha con arroz, papas rústicas y ensalada fresca. Incluye té a elegir: limón, frutos rojos o coco.",
     "stock": null,
     "imagenes": [
       "/producto/lunch-carne-a-la-plancha/images/lunch-carne-a-la-plancha-1.webp"
@@ -756,7 +1014,7 @@
     "categorias": [
       "lunch"
     ],
-    "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
+    "descripcion": "Crocantes deditos de pollo con arroz, papas rústicas y ensalada fresca. Incluye té a elegir: limón, frutos rojos o coco.",
     "stock": null,
     "imagenes": [
       "/producto/lunch-chicken-fingers/images/lunch-chicken-fingers-1.webp"
@@ -773,7 +1031,7 @@
     "categorias": [
       "lunch"
     ],
-    "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
+    "descripcion": "Chuleta ahumada y chorizo a la parrilla con arroz, papas rústicas y ensalada. Incluye té a elegir: limón, frutos rojos o coco.",
     "stock": null,
     "imagenes": [
       "/producto/lunch-chuleta-ahumada-y-chorizo/images/lunch-chuleta-ahumada-y-chorizo-1.webp"
@@ -790,7 +1048,7 @@
     "categorias": [
       "lunch"
     ],
-    "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
+    "descripcion": "Pechuga de pollo a la plancha con arroz, papas rústicas y ensalada fresca. Incluye té a elegir: limón, frutos rojos o coco.",
     "stock": null,
     "imagenes": [
       "/producto/lunch-pollo-a-la-plancha/images/lunch-pollo-a-la-plancha-1.webp"
@@ -807,7 +1065,7 @@
     "categorias": [
       "flags"
     ],
-    "descripcion": "6 alitas + 4 mini hamburguesas + porción de papas + deditos de queso",
+    "descripcion": "Bandeja para compartir: 6 alitas, 4 mini hamburguesas, porción de papas y deditos de queso. Perfecta para dos.",
     "stock": null,
     "imagenes": [
       "/producto/medium-flag/images/medium-flag-1.webp"
@@ -824,7 +1082,7 @@
     "categorias": [
       "micheladas"
     ],
-    "descripcion": "2 micheladas clásicas",
+    "descripcion": "2 micheladas clásicas bien frías con borde de sal y limón. Refrescantes y perfectas para compartir.",
     "stock": null,
     "imagenes": [
       "/producto/micheladas-clasicas-2x/images/micheladas-clasicas-2x-1.webp"
@@ -841,7 +1099,7 @@
     "categorias": [
       "micheladas"
     ],
-    "descripcion": "3 micheladas clásicas",
+    "descripcion": "3 micheladas clásicas heladas con borde de sal y limón. Ideales para la mesa.",
     "stock": null,
     "imagenes": [
       "/producto/micheladas-clasicas-3x/images/micheladas-clasicas-3x-1.webp"
@@ -858,7 +1116,7 @@
     "categorias": [
       "micheladas"
     ],
-    "descripcion": "3 micheladas sabor: Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos",
+    "descripcion": "3 micheladas de sabor a elegir: maracuyá, mandarina, grosella, mango, tamarindo o frutos rojos. Frutales y refrescantes.",
     "stock": null,
     "imagenes": [
       "/producto/micheladas-sabores-3x/images/micheladas-sabores-3x-1.webp"
@@ -875,7 +1133,7 @@
     "categorias": [
       "kids"
     ],
-    "descripcion": "Con papas fritas",
+    "descripcion": "Mini hamburguesas del tamaño ideal para los peques, con papas fritas. ¡Su favorita!",
     "stock": null,
     "imagenes": [
       "/producto/mini-burgers/images/mini-burgers-1.webp"
@@ -892,7 +1150,7 @@
     "categorias": [
       "kids"
     ],
-    "descripcion": "Con papas fritas",
+    "descripcion": "Bolitas de pollo apanado en porción infantil, con papas fritas. Crocantes y divertidas.",
     "stock": null,
     "imagenes": [
       "/producto/mini-chicken-balls/images/mini-chicken-balls-1.webp"
@@ -909,7 +1167,7 @@
     "categorias": [
       "kids"
     ],
-    "descripcion": "Con papas fritas",
+    "descripcion": "Deditos de pollo crocantes en porción para niños, con papas fritas. Ricos y fáciles de comer.",
     "stock": null,
     "imagenes": [
       "/producto/mini-chicken-fingers/images/mini-chicken-fingers-1.webp"
@@ -926,7 +1184,7 @@
     "categorias": [
       "tex-mex"
     ],
-    "descripcion": "",
+    "descripcion": "Porción de nachos crocantes con queso fundido y carne. Perfectos para picar.",
     "stock": null,
     "imagenes": [
       "/producto/mini-nachos/images/mini-nachos-1.webp"
@@ -943,7 +1201,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "2x1 todos los días",
+    "descripcion": "Ron, hierbabuena fresca, limón y soda. Refrescante hasta el último sorbo. (2x1 todos los días)",
     "stock": null,
     "imagenes": [
       "/producto/mojito-clasico/images/mojito-clasico-1.webp"
@@ -960,7 +1218,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "2x1 todos los días",
+    "descripcion": "El mojito clásico con el toque tropical del maracuyá. Fresco y frutal. (2x1 todos los días)",
     "stock": null,
     "imagenes": [
       "/producto/mojito-maracuya/images/mojito-maracuya-1.webp"
@@ -977,7 +1235,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "2x1 todos los días",
+    "descripcion": "Mojito con fresas frescas machacadas, hierbabuena y limón. Dulce y refrescante. (2x1 todos los días)",
     "stock": null,
     "imagenes": [
       "/producto/mojito-strawberry/images/mojito-strawberry-1.webp"
@@ -994,7 +1252,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Moscow Mule: vodka, jengibre y limón en tarro helado. Fresco y con chispa.",
     "stock": null,
     "imagenes": [
       "/producto/moscow/images/moscow-1.webp"
@@ -1011,7 +1269,7 @@
     "categorias": [
       "postres"
     ],
-    "descripcion": "",
+    "descripcion": "Suave mousse de maracuyá, cremoso con ese toque ácido tropical. Ligero y delicioso.",
     "stock": null,
     "imagenes": [
       "/producto/mousse-de-maracuya/images/mousse-de-maracuya-1.webp"
@@ -1028,7 +1286,7 @@
     "categorias": [
       "tex-mex"
     ],
-    "descripcion": "",
+    "descripcion": "Totopos crocantes cargados de carne, queso fundido, guacamole y pico de gallo. Para compartir... o no.",
     "stock": null,
     "imagenes": [
       "/producto/nachos-de-carne/images/nachos-de-carne-1.webp"
@@ -1045,7 +1303,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "2x1 todos los días",
+    "descripcion": "Whiskey y amaretto en perfecto equilibrio. Elegante y con cuerpo. (2x1 todos los días)",
     "stock": null,
     "imagenes": [
       "/producto/padrino/images/padrino-1.webp"
@@ -1062,7 +1320,7 @@
     "categorias": [
       "frozen"
     ],
-    "descripcion": "Mora, Taxo, Naranjilla, Oreo, Chocolate, Yogurt, Coco, Come y Bebe, Maracuyá Sal",
+    "descripcion": "Refrescantes paletas artesanales de hielo en gran variedad de sabores. Elige tu favorita.",
     "stock": null,
     "imagenes": [
       "/producto/paleta-de-hielo/images/paleta-de-hielo-1.webp"
@@ -1079,7 +1337,7 @@
     "categorias": [
       "fries"
     ],
-    "descripcion": "",
+    "descripcion": "Papas fritas doradas cubiertas de cheddar fundido y trocitos de tocino crocante. Irresistibles.",
     "stock": null,
     "imagenes": [
       "/producto/papas-cheese-bacon/images/papas-cheese-bacon-1.webp"
@@ -1096,7 +1354,7 @@
     "categorias": [
       "fries"
     ],
-    "descripcion": "",
+    "descripcion": "Clásicas papas fritas doradas y crujientes, con el punto perfecto de sal.",
     "stock": null,
     "imagenes": [
       "/producto/papas-clasicas/images/papas-clasicas-1.webp"
@@ -1113,7 +1371,7 @@
     "categorias": [
       "fries"
     ],
-    "descripcion": "",
+    "descripcion": "Papas rústicas con cáscara, sazonadas y doraditas. Rústicas y llenas de sabor.",
     "stock": null,
     "imagenes": [
       "/producto/papas-rusticas/images/papas-rusticas-1.webp"
@@ -1130,7 +1388,7 @@
     "categorias": [
       "fries"
     ],
-    "descripcion": "",
+    "descripcion": "Papas con piel, crocantes por fuera y suaves por dentro. Un clásico con carácter.",
     "stock": null,
     "imagenes": [
       "/producto/papas-skin-on/images/papas-skin-on-1.webp"
@@ -1147,7 +1405,7 @@
     "categorias": [
       "postres"
     ],
-    "descripcion": "",
+    "descripcion": "Esponjoso pastel de naranja con su aroma cítrico. Fresco y delicado.",
     "stock": null,
     "imagenes": [
       "/producto/pastel-de-naranja/images/pastel-de-naranja-1.webp"
@@ -1164,7 +1422,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "",
+    "descripcion": "Nuestra burger insignia: carne jugosa, queso fundido, tocino y salsa de la casa en pan brioche tostado. Más sabor, más actitud. Con papas.",
     "stock": null,
     "imagenes": [
       "/producto/pijack-burger/images/pijack-burger-1.webp"
@@ -1181,7 +1439,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "2x1 todos los días",
+    "descripcion": "Cremoso coctel de ron, piña y coco. Un viaje tropical en cada sorbo. (2x1 todos los días)",
     "stock": null,
     "imagenes": [
       "/producto/pina-colada/images/pina-colada-1.webp"
@@ -1198,7 +1456,7 @@
     "categorias": [
       "tex-mex"
     ],
-    "descripcion": "",
+    "descripcion": "Quesadillas de queso fundido en tortilla dorada, servidas con guacamole y salsa. Simplemente irresistibles.",
     "stock": null,
     "imagenes": [
       "/producto/quesadillas/images/quesadillas-1.webp"
@@ -1215,7 +1473,7 @@
     "categorias": [
       "postres"
     ],
-    "descripcion": "",
+    "descripcion": "Clásica selva negra: bizcocho de chocolate, crema y cerezas. Un pecado en cada bocado.",
     "stock": null,
     "imagenes": [
       "/producto/selva-negra/images/selva-negra-1.webp"
@@ -1232,7 +1490,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Shot de aguardiente antioqueño bien frío. Puro sabor paisa.",
     "stock": null,
     "imagenes": [
       "/producto/shot-de-antioqueno/images/shot-de-antioqueno-1.webp"
@@ -1249,7 +1507,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Shot de tequila con limón y sal. Rápido, directo y festivo.",
     "stock": null,
     "imagenes": [
       "/producto/shot-de-tequila/images/shot-de-tequila-1.webp"
@@ -1266,7 +1524,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Margarita de fresa con borde de sal, tequila y limón. Frutal y refrescante.",
     "stock": null,
     "imagenes": [
       "/producto/strawberry-margarita/images/strawberry-margarita-1.webp"
@@ -1283,7 +1541,7 @@
     "categorias": [
       "flags"
     ],
-    "descripcion": "8 alitas + 4 mini hamburguesas + camarones apanados + porción de papas + deditos de queso",
+    "descripcion": "La bandeja definitiva: 8 alitas, 4 mini hamburguesas, camarones apanados, porción de papas y deditos de queso. Para compartir en grande.",
     "stock": null,
     "imagenes": [
       "/producto/super-flag/images/super-flag-1.webp"
@@ -1300,7 +1558,7 @@
     "categorias": [
       "postres"
     ],
-    "descripcion": "",
+    "descripcion": "Tarteleta crujiente con crema pastelera y frutillas frescas. Dulce y refrescante.",
     "stock": null,
     "imagenes": [
       "/producto/tarteleta-de-frutilla/images/tarteleta-de-frutilla-1.webp"
@@ -1317,7 +1575,7 @@
     "categorias": [
       "bebidas"
     ],
-    "descripcion": "Limón, Frutos Rojos, Coco",
+    "descripcion": "Té helado aromático y refrescante, servido bien frío.",
     "stock": null,
     "imagenes": [
       "/producto/te/images/te-1.webp"
@@ -1334,7 +1592,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "",
+    "descripcion": "Deliciosa hamburguesa vegetariana con medallón de vegetales, lechuga, tomate y cebolla en pan brioche. Sabor pleno, sin carne. Con papas.",
     "stock": null,
     "imagenes": [
       "/producto/veggie-burger/images/veggie-burger-1.webp"
@@ -1351,7 +1609,7 @@
     "categorias": [
       "cocteles"
     ],
-    "descripcion": "",
+    "descripcion": "Vino caliente especiado con canela y frutas. Reconfortante y aromático.",
     "stock": null,
     "imagenes": [
       "/producto/vino-hervido/images/vino-hervido-1.webp"
