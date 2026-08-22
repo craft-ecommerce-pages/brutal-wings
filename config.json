@@ -1,11 +1,22 @@
 {
   "badge_category": "alitas",
   "categories": {
-    "acompanamientos": "🍟 Acompañamientos",
     "alitas": "🔥 Alitas Brutales",
+    "balls": "🍗 Brutal Balls",
     "bebidas": "🥤 Bebidas",
-    "boneless": "🍗 Boneless",
-    "salsas": "🧂 Salsas Extra"
+    "bites": "🧀 Bites",
+    "burgers": "🍔 Burgers",
+    "cocteles": "🍹 Cócteles",
+    "flags": "🚩 Flags",
+    "fries": "🍟 Papas",
+    "frozen": "🍦 Frozen",
+    "kids": "🧒 Kids",
+    "lunch": "🍽️ Almuerzos",
+    "micheladas": "🍺 Micheladas",
+    "postres": "🍰 Postres",
+    "ribs": "🍖 Brutal Ribs",
+    "salads": "🥗 Salads",
+    "tex-mex": "🌮 Tex-Mex"
   },
   "currency": "$",
   "hero_title": "Alitas \u003cspan class=\"hl\"\u003ebrutales\u003c/span\u003e 🔥 más sabor, más actitud",

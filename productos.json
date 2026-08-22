@@ -5,7 +5,9 @@
     "nombre": "Amaretto Sour",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
@@ -18,7 +20,9 @@
     "nombre": "Aperol Spritz",
     "precio": "8.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -31,7 +35,9 @@
     "nombre": "Aritos de Cebolla",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "bites"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -44,7 +50,9 @@
     "nombre": "Brutal Balls 12 piezas",
     "precio": "7.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "balls"
+    ],
     "descripcion": "Incluye papas fritas y salsa a elegir",
     "stock": null,
     "imagenes": null,
@@ -57,7 +65,9 @@
     "nombre": "Brutal Balls 8 piezas",
     "precio": "5.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "balls"
+    ],
     "descripcion": "Incluye papas fritas y salsa a elegir",
     "stock": null,
     "imagenes": null,
@@ -70,7 +80,9 @@
     "nombre": "Brutal Ribs",
     "precio": "15.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "ribs"
+    ],
     "descripcion": "Costillas + papas fritas + ensalada + salsa a elegir",
     "stock": null,
     "imagenes": null,
@@ -83,7 +95,9 @@
     "nombre": "Brutal Wings 12 piezas",
     "precio": "15.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "alitas"
+    ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
     "imagenes": null,
@@ -96,7 +110,9 @@
     "nombre": "Brutal Wings 20 piezas",
     "precio": "24.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "alitas"
+    ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
     "imagenes": null,
@@ -109,7 +125,9 @@
     "nombre": "Brutal Wings 25 piezas",
     "precio": "28.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "alitas"
+    ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
     "imagenes": null,
@@ -122,7 +140,9 @@
     "nombre": "Brutal Wings 6 piezas",
     "precio": "10.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "alitas"
+    ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
     "imagenes": null,
@@ -135,7 +155,9 @@
     "nombre": "Brutal Wings 8 piezas",
     "precio": "12.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "alitas"
+    ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
     "imagenes": null,
@@ -148,7 +170,9 @@
     "nombre": "Buffalo Chicken Salad",
     "precio": "6.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "salads"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -161,7 +185,9 @@
     "nombre": "Bulldog",
     "precio": "8.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -174,7 +200,9 @@
     "nombre": "Burritos",
     "precio": "9.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "tex-mex"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -187,7 +215,9 @@
     "nombre": "Cake de Zanahoria",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "postres"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -200,7 +230,9 @@
     "nombre": "Cake Inglés",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "postres"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -213,7 +245,9 @@
     "nombre": "Cheese Bacon Burger",
     "precio": "7.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "burgers"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -226,7 +260,9 @@
     "nombre": "Cheese Burger",
     "precio": "6.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "burgers"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -239,7 +275,9 @@
     "nombre": "Chicken Burger",
     "precio": "5.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "burgers"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -252,7 +290,9 @@
     "nombre": "Chicken Caesar Salad",
     "precio": "6.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "salads"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -265,7 +305,9 @@
     "nombre": "Chief Garden Salad",
     "precio": "5.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "salads"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -278,7 +320,9 @@
     "nombre": "Copa de Sangría",
     "precio": "4.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -291,7 +335,9 @@
     "nombre": "Copa de Vino",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -304,7 +350,9 @@
     "nombre": "Cuba Libre",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
@@ -317,7 +365,9 @@
     "nombre": "Deditos de Queso",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "bites"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -330,7 +380,9 @@
     "nombre": "Electric Lemonade",
     "precio": "8.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -343,7 +395,9 @@
     "nombre": "Enchiladas",
     "precio": "9.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "tex-mex"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -356,7 +410,9 @@
     "nombre": "Gaseosa",
     "precio": "1.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "bebidas"
+    ],
     "descripcion": "Coca Cola, Fanta, Inca Cola, Sprite, Diet Coke, Fuze Tea, Agua con Gas, Agua sin Gas",
     "stock": null,
     "imagenes": null,
@@ -369,7 +425,9 @@
     "nombre": "Gin \u0026 Tonic",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
@@ -382,7 +440,9 @@
     "nombre": "Helado Artesanal Cacao",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "frozen"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -395,7 +455,9 @@
     "nombre": "Helado Artesanal Chocolate",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "frozen"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -408,7 +470,9 @@
     "nombre": "Helado Artesanal Mandarina",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "frozen"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -421,7 +485,9 @@
     "nombre": "Helado Artesanal Maracumanga",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "frozen"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -434,7 +500,9 @@
     "nombre": "Helado Artesanal Maracuyá",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "frozen"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -447,7 +515,9 @@
     "nombre": "Helado Artesanal Mora Paila",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "frozen"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -460,7 +530,9 @@
     "nombre": "Helado Artesanal Oreo",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "frozen"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -473,7 +545,9 @@
     "nombre": "Jack Daniel's",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -486,7 +560,9 @@
     "nombre": "Jager Boom",
     "precio": "8.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -499,7 +575,9 @@
     "nombre": "Jalapeño Burger",
     "precio": "7.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "burgers"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -512,7 +590,9 @@
     "nombre": "Jalisco Mule",
     "precio": "8.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -525,7 +605,9 @@
     "nombre": "Jugo Natural",
     "precio": "2.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "bebidas"
+    ],
     "descripcion": "Mora, Maracuyá, Piñadiña",
     "stock": null,
     "imagenes": null,
@@ -538,7 +620,9 @@
     "nombre": "Limonada",
     "precio": "2.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "bebidas"
+    ],
     "descripcion": "Natural, Pink, Jengibre, Frutilla y Menta, Albahaca, Hierba Buena",
     "stock": null,
     "imagenes": null,
@@ -551,7 +635,9 @@
     "nombre": "Long Island Iced Tea",
     "precio": "8.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -564,7 +650,9 @@
     "nombre": "Lunch Carne a la Plancha",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "lunch"
+    ],
     "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
     "imagenes": null,
@@ -577,7 +665,9 @@
     "nombre": "Lunch Chicken Fingers",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "lunch"
+    ],
     "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
     "imagenes": null,
@@ -590,7 +680,9 @@
     "nombre": "Lunch Chuleta Ahumada y Chorizo",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "lunch"
+    ],
     "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
     "imagenes": null,
@@ -603,7 +695,9 @@
     "nombre": "Lunch Pollo a la Plancha",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "lunch"
+    ],
     "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
     "imagenes": null,
@@ -616,7 +710,9 @@
     "nombre": "Medium Flag",
     "precio": "13.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "flags"
+    ],
     "descripcion": "6 alitas + 4 mini hamburguesas + porción de papas + deditos de queso",
     "stock": null,
     "imagenes": null,
@@ -629,7 +725,9 @@
     "nombre": "Micheladas Clásicas 2x",
     "precio": "5.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "micheladas"
+    ],
     "descripcion": "2 micheladas clásicas",
     "stock": null,
     "imagenes": null,
@@ -642,7 +740,9 @@
     "nombre": "Micheladas Clásicas 3x",
     "precio": "7.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "micheladas"
+    ],
     "descripcion": "3 micheladas clásicas",
     "stock": null,
     "imagenes": null,
@@ -655,7 +755,9 @@
     "nombre": "Micheladas Sabores 3x",
     "precio": "9.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "micheladas"
+    ],
     "descripcion": "3 micheladas sabor: Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos",
     "stock": null,
     "imagenes": null,
@@ -668,7 +770,9 @@
     "nombre": "Mini Burgers",
     "precio": "4.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "kids"
+    ],
     "descripcion": "Con papas fritas",
     "stock": null,
     "imagenes": null,
@@ -681,7 +785,9 @@
     "nombre": "Mini Chicken Balls",
     "precio": "4.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "kids"
+    ],
     "descripcion": "Con papas fritas",
     "stock": null,
     "imagenes": null,
@@ -694,7 +800,9 @@
     "nombre": "Mini Chicken Fingers",
     "precio": "4.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "kids"
+    ],
     "descripcion": "Con papas fritas",
     "stock": null,
     "imagenes": null,
@@ -707,7 +815,9 @@
     "nombre": "Mini Nachos",
     "precio": "4.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "tex-mex"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -720,7 +830,9 @@
     "nombre": "Mojito Clásico",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
@@ -733,7 +845,9 @@
     "nombre": "Mojito Maracuyá",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
@@ -746,7 +860,9 @@
     "nombre": "Mojito Strawberry",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
@@ -759,7 +875,9 @@
     "nombre": "Moscow",
     "precio": "8.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -772,7 +890,9 @@
     "nombre": "Mousse de Maracuyá",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "postres"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -785,7 +905,9 @@
     "nombre": "Nachos de Carne",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "tex-mex"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -798,7 +920,9 @@
     "nombre": "Padrino",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
@@ -811,7 +935,9 @@
     "nombre": "Paleta de Hielo",
     "precio": "1.50",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "frozen"
+    ],
     "descripcion": "Mora, Taxo, Naranjilla, Oreo, Chocolate, Yogurt, Coco, Come y Bebe, Maracuyá Sal",
     "stock": null,
     "imagenes": null,
@@ -824,7 +950,9 @@
     "nombre": "Papas Cheese Bacon",
     "precio": "5.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "fries"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -837,7 +965,9 @@
     "nombre": "Papas Clásicas",
     "precio": "4.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "fries"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -850,7 +980,9 @@
     "nombre": "Papas Rústicas",
     "precio": "4.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "fries"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -863,7 +995,9 @@
     "nombre": "Papas Skin On",
     "precio": "4.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "fries"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -876,7 +1010,9 @@
     "nombre": "Pastel de Naranja",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "postres"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -889,7 +1025,9 @@
     "nombre": "Pijack Burger",
     "precio": "7.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "burgers"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -902,7 +1040,9 @@
     "nombre": "Piña Colada",
     "precio": "7.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "2x1 todos los días",
     "stock": null,
     "imagenes": null,
@@ -915,7 +1055,9 @@
     "nombre": "Quesadillas",
     "precio": "9.49",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "tex-mex"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -928,7 +1070,9 @@
     "nombre": "Selva Negra",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "postres"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -941,7 +1085,9 @@
     "nombre": "Shot de Antioqueño",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -954,7 +1100,9 @@
     "nombre": "Shot de Tequila",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -967,7 +1115,9 @@
     "nombre": "Strawberry Margarita",
     "precio": "8.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -980,7 +1130,9 @@
     "nombre": "Super Flag",
     "precio": "19.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "flags"
+    ],
     "descripcion": "8 alitas + 4 mini hamburguesas + camarones apanados + porción de papas + deditos de queso",
     "stock": null,
     "imagenes": null,
@@ -993,7 +1145,9 @@
     "nombre": "Tarteleta de Frutilla",
     "precio": "3.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "postres"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -1006,7 +1160,9 @@
     "nombre": "Té",
     "precio": "2.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "bebidas"
+    ],
     "descripcion": "Limón, Frutos Rojos, Coco",
     "stock": null,
     "imagenes": null,
@@ -1019,7 +1175,9 @@
     "nombre": "Veggie Burger",
     "precio": "4.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "burgers"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
@@ -1032,7 +1190,9 @@
     "nombre": "Vino Hervido",
     "precio": "5.99",
     "precio_promo": "",
-    "categorias": [],
+    "categorias": [
+      "cocteles"
+    ],
     "descripcion": "",
     "stock": null,
     "imagenes": null,
