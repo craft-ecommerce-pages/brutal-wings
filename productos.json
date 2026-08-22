@@ -61,7 +61,9 @@
     ],
     "descripcion": "Incluye papas fritas y salsa a elegir",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/brutal-balls-12-piezas/images/brutal-balls-12-piezas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -76,7 +78,9 @@
     ],
     "descripcion": "Incluye papas fritas y salsa a elegir",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/brutal-balls-8-piezas/images/brutal-balls-8-piezas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -108,7 +112,9 @@
     ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -123,7 +129,9 @@
     ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -138,7 +146,9 @@
     ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -153,7 +163,9 @@
     ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -168,7 +180,9 @@
     ],
     "descripcion": "Con tu salsa brutal favorita",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -234,7 +248,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cake-de-zanahoria/images/cake-de-zanahoria-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -351,7 +367,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/copa-de-sangria/images/copa-de-sangria-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -366,7 +384,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/copa-de-vino/images/copa-de-vino-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -483,7 +503,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/helado-artesanal-cacao/images/helado-artesanal-cacao-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -498,7 +520,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/helado-artesanal-chocolate/images/helado-artesanal-chocolate-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -513,7 +537,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/helado-artesanal-mandarina/images/helado-artesanal-mandarina-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -528,7 +554,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/helado-artesanal-maracumanga/images/helado-artesanal-maracumanga-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -543,7 +571,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/helado-artesanal-maracuya/images/helado-artesanal-maracuya-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -558,7 +588,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/helado-artesanal-mora-paila/images/helado-artesanal-mora-paila-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -573,7 +605,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/helado-artesanal-oreo/images/helado-artesanal-oreo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -707,7 +741,9 @@
     ],
     "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/lunch-carne-a-la-plancha/images/lunch-carne-a-la-plancha-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -739,7 +775,9 @@
     ],
     "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/lunch-chuleta-ahumada-y-chorizo/images/lunch-chuleta-ahumada-y-chorizo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -754,7 +792,9 @@
     ],
     "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/lunch-pollo-a-la-plancha/images/lunch-pollo-a-la-plancha-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -973,7 +1013,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mousse-de-maracuya/images/mousse-de-maracuya-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1107,7 +1149,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pastel-de-naranja/images/pastel-de-naranja-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1190,7 +1234,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/shot-de-antioqueno/images/shot-de-antioqueno-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1205,7 +1251,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/shot-de-tequila/images/shot-de-tequila-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1254,7 +1302,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/tarteleta-de-frutilla/images/tarteleta-de-frutilla-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
