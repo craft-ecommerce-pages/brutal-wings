@@ -10,7 +10,9 @@
     ],
     "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/amaretto-sour/images/amaretto-sour-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -25,7 +27,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/aperol-spritz/images/aperol-spritz-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -40,7 +44,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/aritos-de-cebolla/images/aritos-de-cebolla-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -85,7 +91,9 @@
     ],
     "descripcion": "Costillas + papas fritas + ensalada + salsa a elegir",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/brutal-ribs/images/brutal-ribs-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -175,7 +183,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/buffalo-chicken-salad/images/buffalo-chicken-salad-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -190,7 +200,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/bulldog/images/bulldog-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -205,7 +217,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/burritos/images/burritos-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -235,7 +249,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cake-ingles/images/cake-ingles-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -250,7 +266,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cheese-bacon-burger/images/cheese-bacon-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -265,7 +283,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cheese-burger/images/cheese-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -280,7 +300,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/chicken-burger/images/chicken-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -295,7 +317,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/chicken-caesar-salad/images/chicken-caesar-salad-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -310,7 +334,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/chief-garden-salad/images/chief-garden-salad-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -355,7 +381,9 @@
     ],
     "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cuba-libre/images/cuba-libre-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -370,7 +398,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/deditos-de-queso/images/deditos-de-queso-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -385,7 +415,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/electric-lemonade/images/electric-lemonade-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -400,7 +432,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/enchiladas/images/enchiladas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -415,7 +449,9 @@
     ],
     "descripcion": "Coca Cola, Fanta, Inca Cola, Sprite, Diet Coke, Fuze Tea, Agua con Gas, Agua sin Gas",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/gaseosa/images/gaseosa-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -430,7 +466,9 @@
     ],
     "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/gin-tonic/images/gin-tonic-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -550,7 +588,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jack-daniels/images/jack-daniels-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -565,7 +605,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jager-boom/images/jager-boom-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -580,7 +622,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jalapeno-burger/images/jalapeno-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -595,7 +639,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jalisco-mule/images/jalisco-mule-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -610,7 +656,9 @@
     ],
     "descripcion": "Mora, Maracuyá, Piñadiña",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/jugo-natural/images/jugo-natural-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -625,7 +673,9 @@
     ],
     "descripcion": "Natural, Pink, Jengibre, Frutilla y Menta, Albahaca, Hierba Buena",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/limonada/images/limonada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -640,7 +690,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/long-island-iced-tea/images/long-island-iced-tea-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -670,7 +722,9 @@
     ],
     "descripcion": "Incluye té de preferencia: limón, frutos rojos o coco",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/lunch-chicken-fingers/images/lunch-chicken-fingers-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -715,7 +769,9 @@
     ],
     "descripcion": "6 alitas + 4 mini hamburguesas + porción de papas + deditos de queso",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/medium-flag/images/medium-flag-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -730,7 +786,9 @@
     ],
     "descripcion": "2 micheladas clásicas",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/micheladas-clasicas-2x/images/micheladas-clasicas-2x-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -745,7 +803,9 @@
     ],
     "descripcion": "3 micheladas clásicas",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/micheladas-clasicas-3x/images/micheladas-clasicas-3x-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -760,7 +820,9 @@
     ],
     "descripcion": "3 micheladas sabor: Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/micheladas-sabores-3x/images/micheladas-sabores-3x-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -775,7 +837,9 @@
     ],
     "descripcion": "Con papas fritas",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mini-burgers/images/mini-burgers-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -790,7 +854,9 @@
     ],
     "descripcion": "Con papas fritas",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mini-chicken-balls/images/mini-chicken-balls-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -805,7 +871,9 @@
     ],
     "descripcion": "Con papas fritas",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mini-chicken-fingers/images/mini-chicken-fingers-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -820,7 +888,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mini-nachos/images/mini-nachos-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -835,7 +905,9 @@
     ],
     "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mojito-clasico/images/mojito-clasico-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -850,7 +922,9 @@
     ],
     "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mojito-maracuya/images/mojito-maracuya-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -865,7 +939,9 @@
     ],
     "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/mojito-strawberry/images/mojito-strawberry-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -880,7 +956,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/moscow/images/moscow-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -910,7 +988,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/nachos-de-carne/images/nachos-de-carne-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -925,7 +1005,9 @@
     ],
     "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/padrino/images/padrino-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -940,7 +1022,9 @@
     ],
     "descripcion": "Mora, Taxo, Naranjilla, Oreo, Chocolate, Yogurt, Coco, Come y Bebe, Maracuyá Sal",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/paleta-de-hielo/images/paleta-de-hielo-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -955,7 +1039,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-cheese-bacon/images/papas-cheese-bacon-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -970,7 +1056,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-clasicas/images/papas-clasicas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -985,7 +1073,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-rusticas/images/papas-rusticas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1000,7 +1090,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/papas-skin-on/images/papas-skin-on-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1030,7 +1122,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pijack-burger/images/pijack-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1045,7 +1139,9 @@
     ],
     "descripcion": "2x1 todos los días",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/pina-colada/images/pina-colada-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1060,7 +1156,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/quesadillas/images/quesadillas-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1075,7 +1173,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/selva-negra/images/selva-negra-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1120,7 +1220,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/strawberry-margarita/images/strawberry-margarita-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1135,7 +1237,9 @@
     ],
     "descripcion": "8 alitas + 4 mini hamburguesas + camarones apanados + porción de papas + deditos de queso",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/super-flag/images/super-flag-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1165,7 +1269,9 @@
     ],
     "descripcion": "Limón, Frutos Rojos, Coco",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/te/images/te-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1180,7 +1286,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/veggie-burger/images/veggie-burger-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
@@ -1195,7 +1303,9 @@
     ],
     "descripcion": "",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/vino-hervido/images/vino-hervido-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   }
