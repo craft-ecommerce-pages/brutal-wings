@@ -4,7 +4,7 @@
     "slug": "2x1-alitas",
     "nombre": "2x1 Alitas",
     "tipo": "promocion",
-    "precio": "",
+    "precio": "10.99",
     "precio_promo": "",
     "categorias": [],
     "descripcion": "Solo los martes 🔥 2x1 en alitas con más de 20 sabores y salsas para elegir. Llévate el doble para compartir y disfrutar.",
@@ -13,6 +13,31 @@
       "/producto/2x1-alitas/images/2x1-alitas-1.webp"
     ],
     "variantes": [
+      {
+        "name": "Elige tu combo",
+        "options": [
+          {
+            "label": "2 x 6 alitas (recibes 12) ($10.99)",
+            "price": 10.99
+          },
+          {
+            "label": "2 x 8 alitas (recibes 16) ($12.99)",
+            "price": 12.99
+          },
+          {
+            "label": "2 x 12 alitas (recibes 24) ($15.99)",
+            "price": 15.99
+          },
+          {
+            "label": "2 x 20 alitas (recibes 40) ($24.99)",
+            "price": 24.99
+          },
+          {
+            "label": "2 x 25 alitas (recibes 50) ($28.99)",
+            "price": 28.99
+          }
+        ]
+      },
       {
         "name": "Salsa",
         "options": [
@@ -46,7 +71,7 @@
     "slug": "3x2-alitas",
     "nombre": "3x2 Alitas",
     "tipo": "promocion",
-    "precio": "",
+    "precio": "11.99",
     "precio_promo": "",
     "categorias": [],
     "descripcion": "Solo los viernes 🔥 3x2 en alitas · Pides 8 recibes 12 ($11.99) · Pides 12 recibes 18 ($14.99) · Pides 20 recibes 30 ($23.99) · Pides 30 recibes 45 ($29.99) · Pides 40 recibes 60 ($44.99) · Pides 50 recibes 75 ($56.99). Elige tus salsas.",
@@ -55,6 +80,35 @@
       "/producto/3x2-alitas/images/3x2-alitas-1.webp"
     ],
     "variantes": [
+      {
+        "name": "Elige tu combo",
+        "options": [
+          {
+            "label": "Pides 8, recibes 12 ($11.99)",
+            "price": 11.99
+          },
+          {
+            "label": "Pides 12, recibes 18 ($14.99)",
+            "price": 14.99
+          },
+          {
+            "label": "Pides 20, recibes 30 ($23.99)",
+            "price": 23.99
+          },
+          {
+            "label": "Pides 30, recibes 45 ($29.99)",
+            "price": 29.99
+          },
+          {
+            "label": "Pides 40, recibes 60 ($44.99)",
+            "price": 44.99
+          },
+          {
+            "label": "Pides 50, recibes 75 ($56.99)",
+            "price": 56.99
+          }
+        ]
+      },
       {
         "name": "Salsa",
         "options": [
@@ -436,7 +490,7 @@
     "slug": "brutal-tex-mex-2x1",
     "nombre": "Brutal Tex-Mex 2x1",
     "tipo": "promocion",
-    "precio": "",
+    "precio": "7.49",
     "precio_promo": "",
     "categorias": [],
     "descripcion": "Solo los jueves 🌮 2x1 en todo el Tex-Mex: enchiladas, nachos con carne, quesadillas y burritos.",
@@ -444,7 +498,33 @@
     "imagenes": [
       "/producto/brutal-tex-mex-2x1/images/brutal-tex-mex-2x1-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Elige tu combo",
+        "options": [
+          {
+            "label": "2 Nachos de Carne ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "2 Enchiladas ($9.49)",
+            "price": 9.49
+          },
+          {
+            "label": "2 Quesadillas ($9.49)",
+            "price": 9.49
+          },
+          {
+            "label": "2 Burritos ($9.49)",
+            "price": 9.49
+          },
+          {
+            "label": "2 Mini Nachos ($4.99)",
+            "price": 4.99
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {
@@ -1411,7 +1491,7 @@
     "slug": "deli-domingo",
     "nombre": "Deli Domingo",
     "tipo": "promocion",
-    "precio": "",
+    "precio": "22.99",
     "precio_promo": "",
     "categorias": [],
     "descripcion": "Solo los domingos 🔥 Alitas para compartir con papas fritas · 20 alitas $22.99 · 30 alitas $26.99 · 40 alitas $29.99. Elige tus salsas favoritas.",
@@ -1420,6 +1500,23 @@
       "/producto/deli-domingo/images/deli-domingo-1.webp"
     ],
     "variantes": [
+      {
+        "name": "Elige tu combo",
+        "options": [
+          {
+            "label": "20 alitas ($22.99)",
+            "price": 22.99
+          },
+          {
+            "label": "30 alitas ($26.99)",
+            "price": 26.99
+          },
+          {
+            "label": "40 alitas ($29.99)",
+            "price": 29.99
+          }
+        ]
+      },
       {
         "name": "Salsa",
         "options": [
