@@ -1,5 +1,89 @@
 [
   {
+    "id": "f5aa1893-9308-4660-a627-51267a6a3ebe",
+    "slug": "2x1-alitas",
+    "nombre": "2x1 Alitas",
+    "tipo": "promocion",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los martes 🔥 2x1 en alitas con más de 20 sabores y salsas para elegir. Llévate el doble para compartir y disfrutar.",
+    "stock": null,
+    "imagenes": [
+      "/producto/2x1-alitas/images/2x1-alitas-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "1090b427-cd91-46a5-b6e6-d4a39ed0a115",
+    "slug": "3x2-alitas",
+    "nombre": "3x2 Alitas",
+    "tipo": "promocion",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los viernes 🔥 3x2 en alitas · Pides 8 recibes 12 ($11.99) · Pides 12 recibes 18 ($14.99) · Pides 20 recibes 30 ($23.99) · Pides 30 recibes 45 ($29.99) · Pides 40 recibes 60 ($44.99) · Pides 50 recibes 75 ($56.99). Elige tus salsas.",
+    "stock": null,
+    "imagenes": [
+      "/producto/3x2-alitas/images/3x2-alitas-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "b5940788-a5ef-4e46-a6b4-fe57443a4ade",
     "slug": "amaretto-sour",
     "nombre": "Amaretto Sour",
@@ -137,6 +221,90 @@
     "sku": ""
   },
   {
+    "id": "5cee5f41-9533-45f3-98b0-3362ae9a6550",
+    "slug": "brutal-burger-feast",
+    "nombre": "Brutal Burger Feast",
+    "tipo": "promocion",
+    "precio": "19.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los sábados 🔥 15 alitas + papas cajun + 1 burger. La combinación alitas + burger. Elige tus salsas.",
+    "stock": null,
+    "imagenes": [
+      "/producto/brutal-burger-feast/images/brutal-burger-feast-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "2d61bdc6-1320-4b4b-800a-27d8c9879f8c",
+    "slug": "brutal-feast-tex-mex",
+    "nombre": "Brutal Feast Tex-Mex",
+    "tipo": "promocion",
+    "precio": "19.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los sábados 🔥 15 alitas + papas cajun + enchilada o quesadilla + 3 salsas. Para compartir y disfrutar. Elige tus salsas.",
+    "stock": null,
+    "imagenes": [
+      "/producto/brutal-feast-tex-mex/images/brutal-feast-tex-mex-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "66b65734-a280-4f13-886f-f570c572b54f",
     "slug": "brutal-monday-pack",
     "nombre": "Brutal Monday Pack",
@@ -144,12 +312,80 @@
     "precio": "17.99",
     "precio_promo": "",
     "categorias": [],
-    "descripcion": "El lunes sabe mejor 🔥 15 alitas + papas fritas + 2 cervezas Club (330 ml). La combinación perfecta para empezar la semana. Solo los lunes. Elige tus salsas favoritas del menú.",
+    "descripcion": "El lunes sabe mejor 🔥 15 alitas + papas fritas + 2 cervezas Club (330 ml). La combinación perfecta para empezar la semana. Solo los lunes. Elige tus salsas favoritas.",
     "stock": null,
     "imagenes": [
       "/producto/brutal-monday-pack/images/brutal-monday-pack-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "c83fb900-e4c7-4a8d-9351-b53160609292",
+    "slug": "brutal-rib-feast",
+    "nombre": "Brutal Rib Feast",
+    "tipo": "promocion",
+    "precio": "24.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los sábados 🔥 15 alitas + costillas + papas cheese bacon + 3 salsas. Alitas + costillas para compartir. Elige tus salsas.",
+    "stock": null,
+    "imagenes": [
+      "/producto/brutal-rib-feast/images/brutal-rib-feast-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -189,6 +425,64 @@
           "Ajo Parmesano",
           "Blue Cheese (+$2.00)",
           "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "508f7b5f-fbfe-4a71-b74d-17de8b063030",
+    "slug": "brutal-tex-mex-2x1",
+    "nombre": "Brutal Tex-Mex 2x1",
+    "tipo": "promocion",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los jueves 🌮 2x1 en todo el Tex-Mex: enchiladas, nachos con carne, quesadillas y burritos.",
+    "stock": null,
+    "imagenes": [
+      "/producto/brutal-tex-mex-2x1/images/brutal-tex-mex-2x1-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "5b9ebcce-5da8-481b-8db2-04869d220891",
+    "slug": "brutal-tower",
+    "nombre": "Brutal Tower",
+    "tipo": "promocion",
+    "precio": "25.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los miércoles 🔥 La torre brutal: 25 alitas + papas fritas + 3 bebidas. 25 alitas a elegir sabor. Para compartir en grande.",
+    "stock": null,
+    "imagenes": [
+      "/producto/brutal-tower/images/brutal-tower-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
         ],
         "type": "option"
       }
@@ -1113,6 +1407,48 @@
     "sku": ""
   },
   {
+    "id": "dc1e58c0-792d-4382-a687-f9664fba0de0",
+    "slug": "deli-domingo",
+    "nombre": "Deli Domingo",
+    "tipo": "promocion",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los domingos 🔥 Alitas para compartir con papas fritas · 20 alitas $22.99 · 30 alitas $26.99 · 40 alitas $29.99. Elige tus salsas favoritas.",
+    "stock": null,
+    "imagenes": [
+      "/producto/deli-domingo/images/deli-domingo-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "a5092bfb-6ec5-43eb-a811-8ec3cc070cd8",
     "slug": "electric-lemonade",
     "nombre": "Electric Lemonade",
@@ -1144,6 +1480,48 @@
       "/producto/enchiladas/images/enchiladas-1.webp"
     ],
     "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "99503634-646a-4fa2-82c3-d4524cc04302",
+    "slug": "friday-wing-party",
+    "nombre": "Friday Wing Party",
+    "tipo": "promocion",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los viernes 🔥 Bandeja para compartir: 8 alitas + 8 camarones apanados + 4 dedos de queso + 3 micheladas + papas fritas + 4 mini burgers. Elige tus salsas favoritas.",
+    "stock": null,
+    "imagenes": [
+      "/producto/friday-wing-party/images/friday-wing-party-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1482,6 +1860,22 @@
     "stock": null,
     "imagenes": [
       "/producto/lunch-pollo-a-la-plancha/images/lunch-pollo-a-la-plancha-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "c4aaa5a2-6c78-4c30-9a6b-998f68ce1e1a",
+    "slug": "margaritas-y-coronitas-2x1",
+    "nombre": "Margaritas y Coronitas 2x1",
+    "tipo": "promocion",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los jueves 🍹 2x1 en todas nuestras margaritas y en las Coronitas bien heladas. ¡Trae a tu crew!",
+    "stock": null,
+    "imagenes": [
+      "/producto/margaritas-y-coronitas-2x1/images/margaritas-y-coronitas-2x1-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -2028,6 +2422,36 @@
       "/producto/torta-de-chocolate-mojada/images/torta-de-chocolate-mojada-1.webp"
     ],
     "variantes": [],
+    "sku": ""
+  },
+  {
+    "id": "dfe13d5a-027e-4a74-ab65-6d5a334e9c29",
+    "slug": "tropical-wings-2x1",
+    "nombre": "Tropical Wings 2x1",
+    "tipo": "promocion",
+    "precio": "",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Solo los jueves 🔥 2x1 en todos nuestros sabores tropicales: Tamarindo, Limón Pimienta, Frutilla Jalapeño, Hawaiano, Mango Habanero, Maracuyá y Mora.",
+    "stock": null,
+    "imagenes": [
+      "/producto/tropical-wings-2x1/images/tropical-wings-2x1-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Tamarindo",
+          "Limón Pimienta",
+          "Frutilla Jalapeño",
+          "Hawaiano",
+          "Mango Habanero",
+          "Maracuyá",
+          "Mora"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
