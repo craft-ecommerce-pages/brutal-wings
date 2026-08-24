@@ -165,7 +165,9 @@
     ],
     "descripcion": "Refrescante y burbujeante: Aperol, prosecco y soda con naranja. El aperitivo italiano por excelencia.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/aperol-spritz/images/aperol-spritz-1.webp"
+    ],
     "variantes": [],
     "sku": ""
   },
