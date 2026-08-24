@@ -137,6 +137,22 @@
     "sku": ""
   },
   {
+    "id": "66b65734-a280-4f13-886f-f570c572b54f",
+    "slug": "brutal-monday-pack",
+    "nombre": "Brutal Monday Pack",
+    "tipo": "promocion",
+    "precio": "17.99",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "El lunes sabe mejor 🔥 15 alitas + papas fritas + 2 cervezas Club (330 ml). La combinación perfecta para empezar la semana. Solo los lunes. Elige tus salsas favoritas del menú.",
+    "stock": null,
+    "imagenes": [
+      "/producto/brutal-monday-pack/images/brutal-monday-pack-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "1357af7c-b679-4929-97c3-6ca84d61d379",
     "slug": "brutal-ribs",
     "nombre": "Brutal Ribs",
