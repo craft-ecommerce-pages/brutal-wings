@@ -2087,7 +2087,9 @@
     ],
     "descripcion": "Tres micheladas de sabor a elegir (puedes repetir): Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/micheladas-de-sabor/images/micheladas-de-sabor-1.webp"
+    ],
     "variantes": [
       {
         "name": "Elige tus 3 sabores",
@@ -2099,7 +2101,7 @@
           "Tamarindo",
           "Frutos Rojos"
         ],
-        "type": "distribute"
+        "type": "option"
       }
     ],
     "sku": ""
