@@ -1998,6 +1998,23 @@
     "sku": ""
   },
   {
+    "id": "a61c040f-23d8-472d-9e00-29ce9986a7c9",
+    "slug": "torta-de-chocolate-mojada",
+    "nombre": "Torta de Chocolate Mojada",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [
+      "postres"
+    ],
+    "descripcion": "Húmeda torta de chocolate bañada en ganache, suave y esponjosa. Intensa y llena de sabor en cada bocado.",
+    "stock": null,
+    "imagenes": [
+      "/producto/torta-de-chocolate-mojada/images/torta-de-chocolate-mojada-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "efe47d39-9d9d-45c2-802f-5f424c1540a6",
     "slug": "veggie-burger",
     "nombre": "Veggie Burger",
