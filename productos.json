@@ -2056,7 +2056,9 @@
     ],
     "descripcion": "Micheladas bien frías con borde de sal y limón. Clásicas o de sabor: Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/micheladas/images/micheladas-1.webp"
+    ],
     "variantes": [
       {
         "name": "Elige tu combo",
