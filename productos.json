@@ -1861,8 +1861,8 @@
   },
   {
     "id": "223e8ebc-c62d-4d5d-b6c3-4f855059a322",
-    "slug": "limonada",
-    "nombre": "Limonada",
+    "slug": "limonada-rosa",
+    "nombre": "Limonada Rosa",
     "precio": "2.99",
     "precio_promo": "",
     "categorias": [
@@ -1871,7 +1871,7 @@
     "descripcion": "Limonada fresca y burbujeante, el refresco ideal para equilibrar el picante.",
     "stock": null,
     "imagenes": [
-      "/producto/limonada/images/limonada-1.webp"
+      "/producto/limonada-rosa/images/limonada-rosa-1.webp"
     ],
     "variantes": [],
     "sku": ""
