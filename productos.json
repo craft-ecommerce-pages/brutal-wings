@@ -2101,7 +2101,7 @@
           "Tamarindo",
           "Frutos Rojos"
         ],
-        "type": "option"
+        "type": "distribute"
       }
     ],
     "sku": ""
