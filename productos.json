@@ -2047,17 +2047,17 @@
   },
   {
     "id": "09515e62-ec50-4bdb-93aa-c28341c621b8",
-    "slug": "micheladas",
-    "nombre": "Micheladas",
+    "slug": "micheladas-clasicas",
+    "nombre": "Micheladas Clásicas",
     "precio": "5.99",
     "precio_promo": "",
     "categorias": [
       "micheladas"
     ],
-    "descripcion": "Micheladas bien frías con borde de sal y limón. Clásicas o de sabor: Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos.",
+    "descripcion": "Micheladas bien frías con borde de sal y limón. Elige tu combo.",
     "stock": null,
     "imagenes": [
-      "/producto/micheladas/images/micheladas-1.webp"
+      "/producto/micheladas-clasicas/images/micheladas-clasicas-1.webp"
     ],
     "variantes": [
       {
@@ -2070,12 +2070,36 @@
           {
             "label": "3 Micheladas Clásicas ($7.99)",
             "price": 7.99
-          },
-          {
-            "label": "3 Micheladas de Sabor ($9.99)",
-            "price": 9.99
           }
         ]
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "a445670c-c930-4267-ab1e-53f76619c7fc",
+    "slug": "micheladas-de-sabor",
+    "nombre": "Micheladas de Sabor",
+    "precio": "9.99",
+    "precio_promo": "",
+    "categorias": [
+      "micheladas"
+    ],
+    "descripcion": "Tres micheladas de sabor a elegir (puedes repetir): Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Elige tus 3 sabores",
+        "options": [
+          "Maracuyá",
+          "Mandarina",
+          "Grosella",
+          "Mango",
+          "Tamarindo",
+          "Frutos Rojos"
+        ],
+        "type": "distribute"
       }
     ],
     "sku": ""
