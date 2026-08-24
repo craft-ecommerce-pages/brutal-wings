@@ -1623,17 +1623,17 @@
   },
   {
     "id": "8d2e71b7-5bf8-4213-98bf-1c53cf2fc663",
-    "slug": "gaseosa",
-    "nombre": "Gaseosa",
+    "slug": "gaseosas-y-aguas",
+    "nombre": "Gaseosas y Aguas",
     "precio": "1.99",
     "precio_promo": "",
     "categorias": [
-      "bebidas"
+      "brutal-drinks"
     ],
     "descripcion": "Refrescante gaseosa bien fría para acompañar tu antojo. Elige tu favorita.",
     "stock": null,
     "imagenes": [
-      "/producto/gaseosa/images/gaseosa-1.webp"
+      "/producto/gaseosas-y-aguas/images/gaseosas-y-aguas-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -1775,6 +1775,33 @@
     "sku": ""
   },
   {
+    "id": "3999af94-a734-45bb-acb0-14e3d40d4078",
+    "slug": "ice-tea",
+    "nombre": "Ice Tea",
+    "precio": "2.99",
+    "precio_promo": "",
+    "categorias": [
+      "brutal-beverages"
+    ],
+    "descripcion": "Té helado aromático y refrescante, servido bien frío. Elige tu sabor.",
+    "stock": null,
+    "imagenes": [
+      "/producto/ice-tea/images/ice-tea-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Limón",
+          "Frutos Rojos",
+          "Coco"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "22a5eea9-e093-4db9-84b9-5b190d018760",
     "slug": "jack-daniels",
     "nombre": "Jack Daniel's",
@@ -1844,36 +1871,60 @@
   },
   {
     "id": "8cec6ddf-d38b-47a2-8733-d8dc8e9007cc",
-    "slug": "jugo-natural",
-    "nombre": "Jugo Natural",
+    "slug": "jugos-naturales",
+    "nombre": "Jugos Naturales",
     "precio": "2.99",
     "precio_promo": "",
     "categorias": [
-      "bebidas"
+      "brutal-beverages"
     ],
-    "descripcion": "Jugo 100% natural preparado al momento con fruta fresca. Puro sabor, sin igual.",
+    "descripcion": "Jugos 100% naturales hechos con fruta fresca. Puro sabor en cada vaso.",
     "stock": null,
     "imagenes": [
-      "/producto/jugo-natural/images/jugo-natural-1.webp"
+      "/producto/jugos-naturales/images/jugos-naturales-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Mora",
+          "Maracuyá",
+          "Frutilla",
+          "Piñadina"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
     "id": "223e8ebc-c62d-4d5d-b6c3-4f855059a322",
-    "slug": "limonada-rosa",
-    "nombre": "Limonada Rosa",
+    "slug": "limonadas",
+    "nombre": "Limonadas",
     "precio": "2.99",
     "precio_promo": "",
     "categorias": [
-      "bebidas"
+      "brutal-beverages"
     ],
-    "descripcion": "Limonada fresca y burbujeante, el refresco ideal para equilibrar el picante.",
+    "descripcion": "Limonadas frescas y burbujeantes, preparadas al momento. Elige tu sabor favorito.",
     "stock": null,
     "imagenes": [
-      "/producto/limonada-rosa/images/limonada-rosa-1.webp"
+      "/producto/limonadas/images/limonadas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Natural",
+          "Pink",
+          "Jengibre",
+          "Frutilla y Menta",
+          "Albahaca",
+          "Hierba Buena"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1996,53 +2047,64 @@
   },
   {
     "id": "09515e62-ec50-4bdb-93aa-c28341c621b8",
-    "slug": "micheladas-clasicas-2x",
-    "nombre": "Micheladas Clásicas 2x",
+    "slug": "micheladas",
+    "nombre": "Micheladas",
     "precio": "5.99",
     "precio_promo": "",
     "categorias": [
       "micheladas"
     ],
-    "descripcion": "2 micheladas clásicas bien frías con borde de sal y limón. Refrescantes y perfectas para compartir.",
+    "descripcion": "Micheladas bien frías con borde de sal y limón. Clásicas o de sabor: Maracuyá, Mandarina, Grosella, Mango, Tamarindo o Frutos Rojos.",
     "stock": null,
-    "imagenes": [
-      "/producto/micheladas-clasicas-2x/images/micheladas-clasicas-2x-1.webp"
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Elige tu combo",
+        "options": [
+          {
+            "label": "2 Micheladas Clásicas ($5.99)",
+            "price": 5.99
+          },
+          {
+            "label": "3 Micheladas Clásicas ($7.99)",
+            "price": 7.99
+          },
+          {
+            "label": "3 Micheladas de Sabor ($9.99)",
+            "price": 9.99
+          }
+        ]
+      }
     ],
-    "variantes": [],
     "sku": ""
   },
   {
-    "id": "477db4ec-60dc-4005-b435-c15a99d56ffc",
-    "slug": "micheladas-clasicas-3x",
-    "nombre": "Micheladas Clásicas 3x",
-    "precio": "7.99",
+    "id": "5b01cafc-902f-4ab2-8f58-de0ee27c63e9",
+    "slug": "milkshake",
+    "nombre": "Milkshake",
+    "precio": "3.99",
     "precio_promo": "",
     "categorias": [
-      "micheladas"
+      "brutal-shakes"
     ],
-    "descripcion": "3 micheladas clásicas heladas con borde de sal y limón. Ideales para la mesa.",
+    "descripcion": "Cremosos milkshakes con crema batida. Elige tu sabor favorito.",
     "stock": null,
     "imagenes": [
-      "/producto/micheladas-clasicas-3x/images/micheladas-clasicas-3x-1.webp"
+      "/producto/milkshake/images/milkshake-1.webp"
     ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "31180bae-6c91-490e-8087-ea2736a6d77a",
-    "slug": "micheladas-sabores-3x",
-    "nombre": "Micheladas Sabores 3x",
-    "precio": "9.99",
-    "precio_promo": "",
-    "categorias": [
-      "micheladas"
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Choco Oreo",
+          "Oreo",
+          "Coco",
+          "Maracuyá",
+          "Mora"
+        ],
+        "type": "option"
+      }
     ],
-    "descripcion": "3 micheladas de sabor a elegir: maracuyá, mandarina, grosella, mango, tamarindo o frutos rojos. Frutales y refrescantes.",
-    "stock": null,
-    "imagenes": [
-      "/producto/micheladas-sabores-3x/images/micheladas-sabores-3x-1.webp"
-    ],
-    "variantes": [],
     "sku": ""
   },
   {
@@ -2233,20 +2295,60 @@
     "sku": ""
   },
   {
-    "id": "27deffa1-5e58-45e9-a3e6-d0c0d8a30d60",
-    "slug": "paleta-de-hielo",
-    "nombre": "Paleta de Hielo",
+    "id": "46cc4a91-2319-4270-8f52-943c7beda080",
+    "slug": "paletas-de-crema",
+    "nombre": "Paletas de Crema",
     "precio": "1.50",
     "precio_promo": "",
     "categorias": [
       "frozen"
     ],
-    "descripcion": "Refrescantes paletas artesanales de hielo en gran variedad de sabores. Elige tu favorita.",
+    "descripcion": "Paletas artesanales a base de crema, suaves y cremosas. Elige tu sabor.",
     "stock": null,
     "imagenes": [
-      "/producto/paleta-de-hielo/images/paleta-de-hielo-1.webp"
+      "/producto/paletas-de-crema/images/paletas-de-crema-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Mora",
+          "Taxo",
+          "Naranjilla",
+          "Oreo",
+          "Chocolate",
+          "Yogurt"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
+    "id": "27deffa1-5e58-45e9-a3e6-d0c0d8a30d60",
+    "slug": "paletas-de-hielo",
+    "nombre": "Paletas de Hielo",
+    "precio": "1.50",
+    "precio_promo": "",
+    "categorias": [
+      "frozen"
+    ],
+    "descripcion": "Refrescantes paletas artesanales a base de agua. Elige tu sabor.",
+    "stock": null,
+    "imagenes": [
+      "/producto/paletas-de-hielo/images/paletas-de-hielo-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Coco",
+          "Come y Bebe",
+          "Maracuyá Sal"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -2483,23 +2585,6 @@
     "stock": null,
     "imagenes": [
       "/producto/tarteleta-de-frutilla/images/tarteleta-de-frutilla-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "3999af94-a734-45bb-acb0-14e3d40d4078",
-    "slug": "te",
-    "nombre": "Té",
-    "precio": "2.99",
-    "precio_promo": "",
-    "categorias": [
-      "bebidas"
-    ],
-    "descripcion": "Té helado aromático y refrescante, servido bien frío.",
-    "stock": null,
-    "imagenes": [
-      "/producto/te/images/te-1.webp"
     ],
     "variantes": [],
     "sku": ""
