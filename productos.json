@@ -1704,8 +1704,8 @@
   },
   {
     "id": "d56ad125-f77b-4e43-af51-5c22c76e8a38",
-    "slug": "moscow",
-    "nombre": "Moscow",
+    "slug": "moscow-mule",
+    "nombre": "Moscow Mule",
     "precio": "8.99",
     "precio_promo": "",
     "categorias": [
@@ -1714,7 +1714,7 @@
     "descripcion": "Moscow Mule: vodka, jengibre y limón en tarro helado. Fresco y con chispa.",
     "stock": null,
     "imagenes": [
-      "/producto/moscow/images/moscow-1.webp"
+      "/producto/moscow-mule/images/moscow-mule-1.webp"
     ],
     "variantes": [],
     "sku": ""
