@@ -590,82 +590,25 @@
       {
         "name": "Salsa",
         "options": [
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-2.webp",
-            "label": "Poco Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-2.webp",
-            "label": "Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-2.webp",
-            "label": "Suicida"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-2.webp",
-            "label": "BBQ Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-2.webp",
-            "label": "Chipotle Ranch"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-2.webp",
-            "label": "Honey Spicy"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-2.webp",
-            "label": "Mango Habanero"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-2.webp",
-            "label": "Frutilla y Jalapeño"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-3.webp",
-            "label": "Limón y Pimienta"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-3.webp",
-            "label": "Maracuyá"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-1.webp",
-            "label": "Tamarindo"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-3.webp",
-            "label": "Hawaiano"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-1.webp",
-            "label": "Mora"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-1.webp",
-            "label": "BBQ"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-3.webp",
-            "label": "Honey Mustard"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-1.webp",
-            "label": "Teriyaki"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-4.webp",
-            "label": "Ajo Parmesano"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-4.webp",
-            "label": "Blue Cheese (+$2.00)"
-          },
-          {
-            "image": "/producto/brutal-wings-12-piezas/images/brutal-wings-12-piezas-1.webp",
-            "label": "Jack Daniel's (+$2.00)"
-          }
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
         ],
         "type": "option"
       }
