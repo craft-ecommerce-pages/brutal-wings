@@ -20,10 +20,10 @@
       <div class="brand">
         <img class="brand-logo" id="brandLogo" src="media/logo.webp" alt="Brutal Wings" onerror="this.style.display='none';document.getElementById('brandName').hidden=false"/>
         <div class="brand-name" id="brandName" hidden>Brutal Wings</div>
-        <div class="brand-sub" style="margin-left:2px">Alitas Brutales · Pusuquí</div>
+        <div class="brand-sub" style="margin-left:2px">Más Sabor, Más actitud.</div>
       </div>
     </div>
-    <h1 id="heroTitle">Alitas <span class="hl">brutales</span> 🔥 más sabor, <span class="hl">más actitud</span></h1>
+    <h1 id="heroTitle">Alitas - Burguers - Ribs y mas</h1>
     <div class="notice" id="heroNotice" style="display:none"></div>
   </section>
 
@@ -34,7 +34,11 @@
         <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
         <input id="searchInput" type="search" placeholder="Busca tu antojo..." autocomplete="off"/>
       </div>
-      <div class="cat-strip" id="catStrip"></div>
+      <div class="cat-nav at-start">
+        <button class="cat-arrow prev" data-dir="prev" aria-label="Anteriores categorías"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="15 18 9 12 15 6"/></svg></button>
+        <div class="cat-strip" id="catStrip"></div>
+        <button class="cat-arrow next" data-dir="next" aria-label="Más categorías"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.6"><polyline points="9 18 15 12 9 6"/></svg></button>
+      </div>
     </div>
   </div>
 
@@ -55,7 +59,7 @@
   </div>
 
   <!-- WHATSAPP BUBBLE -->
-  <a class="wa-float" href="https://wa.me/593962672254?text=%C2%A1Hola%20Brutal%20Wings!%20%F0%9F%94%A5%20Quiero%20pedir%20mis%20alitas%20brutales" target="_blank" rel="noopener" aria-label="WhatsApp">
+  <a class="wa-float" href="https://wa.me/593996043395?text=%C2%A1Hola%20Brutal%20Wings!%20%F0%9F%94%A5%20Quiero%20pedir%20mis%20alitas%20brutales" target="_blank" rel="noopener" aria-label="WhatsApp">
     <svg width="26" height="26" viewBox="0 0 24 24" fill="white"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
   </a>
 
@@ -154,5 +158,25 @@
   <div class="toast" id="toast"></div>
 
   <script src="https://craft-catalog-engine.pages.dev/v1/catalog.js" defer></script>
+  <script>
+  // Flechas del carrusel de categorías (el strip lo llena el engine async)
+  (function(){
+    var strip=document.getElementById('catStrip'), nav=strip.closest('.cat-nav');
+    function upd(){
+      var max=strip.scrollWidth-strip.clientWidth-2;
+      nav.classList.toggle('at-start',strip.scrollLeft<=2);
+      nav.classList.toggle('at-end',strip.scrollLeft>=max||max<=0);
+    }
+    nav.querySelectorAll('.cat-arrow').forEach(function(b){
+      b.addEventListener('click',function(){
+        strip.scrollBy({left:(b.dataset.dir==='next'?1:-1)*strip.clientWidth*.7,behavior:'smooth'});
+      });
+    });
+    strip.addEventListener('scroll',upd,{passive:true});
+    addEventListener('resize',upd);
+    new MutationObserver(upd).observe(strip,{childList:true}); // reevalúa al poblar chips
+    upd();
+  })();
+  </script>
 </body>
 </html>

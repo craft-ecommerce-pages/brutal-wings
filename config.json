@@ -2,11 +2,8 @@
   "badge_category": "alitas",
   "categories": {
     "alitas": "🍗 Brutal Wings",
-    "balls": "🧆 Brutal Balls",
-    "bites": "🧀 Brutal Bites",
-    "brutal-beverages": "🍋 Brutal Beverages",
+    "snacks": "🍿 Brutal Snacks",
     "brutal-drinks": "🥤 Brutal Drinks",
-    "brutal-shakes": "🧋 Brutal Shakes",
     "burgers": "🍔 Brutal Burgers",
     "cocteles": "🍹 Cócteles",
     "flags": "🚩 Brutal Flags",
@@ -22,32 +19,40 @@
   },
   "category_order": [
     "alitas",
-    "balls",
-    "ribs",
-    "burgers",
     "fries",
-    "bites",
-    "tex-mex",
-    "salads",
-    "flags",
+    "burgers",
     "lunch",
+    "ribs",
+    "tex-mex",
+    "snacks",
+    "flags",
+    "salads",
     "kids",
     "postres",
     "frozen",
-    "brutal-beverages",
-    "brutal-shakes",
     "brutal-drinks",
     "cocteles",
     "micheladas"
   ],
   "currency": "$",
-  "hero_title": "Alitas \u003cspan class=\"hl\"\u003ebrutales\u003c/span\u003e 🔥 más sabor, \u003cspan class=\"hl\"\u003emás actitud\u003c/span\u003e",
-  "location_intro": "Av. Manuel Córdova Galarza y El Vergel, junto a la gasolinera MasGas · Pusuquí, Quito",
+  "hero_title": "Alitas - Burguers - Ribs y mas",
+  "location": {
+    "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8155029775953!2d-78.47129932503542!3d-0.06808989993123657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58972dca653ff%3A0xdd288a5ecdaa50fb!2sBRUTAL%20WINGS!5e0!3m2!1ses-419!2sec!4v1787682377887!5m2!1ses-419!2sec",
+    "telefono_principal": "593996043395",
+    "sedes": [
+      {
+        "nombre": "Brutal Wings · Pusuquí",
+        "direccion": "Av. Manuel Córdova Galarza y El Vergel s7-201, junto a la MasGas · Pusuquí, Quito",
+        "telefono": "593996043395"
+      }
+    ]
+  },
+  "location_intro": "Av. Manuel Córdova Galarza y El Vergel s7-201, junto a la MasGas · Pusuquí, Quito",
   "logo": "logo.png",
   "site_title": "Brutal Wings – Alitas Brutales | Pusuquí, Quito",
   "store_name": "Brutal Wings",
   "theme_accent": "#E4231C",
   "theme_primary": "#F7751F",
   "whatsapp_message": "¡Hola Brutal Wings! 🔥 Quiero pedir mis alitas brutales:",
-  "whatsapp_number": "593962672254"
+  "whatsapp_number": "593996043395"
 }
