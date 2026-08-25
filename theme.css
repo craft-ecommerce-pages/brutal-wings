@@ -39,7 +39,8 @@ body{
   background:linear-gradient(100deg,#F7751F,#E4231C 55%,#ffb347);
   -webkit-background-clip:text;background-clip:text;color:transparent;
 }
-.brand-sub{color:var(--primary);font-weight:700;letter-spacing:.6px;text-transform:uppercase;font-size:12px}
+.brand{gap:0}
+.brand-sub{color:var(--primary);font-weight:700;letter-spacing:.6px;text-transform:uppercase;font-size:12px;margin-top:-10px}
 
 /* ── Precios en gradiente de brasa ── */
 .card-price,.cart-total-value{

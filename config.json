@@ -35,7 +35,7 @@
     "micheladas"
   ],
   "currency": "$",
-  "hero_title": "Alitas - Burguers - Ribs y mas",
+  "hero_title": "Alitas - <span class=\"hl\">Burguers</span> - Ribs <span class=\"hl\">y mas</span>",
   "location": {
     "map_embed": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8155029775953!2d-78.47129932503542!3d-0.06808989993123657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x91d58972dca653ff%3A0xdd288a5ecdaa50fb!2sBRUTAL%20WINGS!5e0!3m2!1ses-419!2sec!4v1787682377887!5m2!1ses-419!2sec",
     "sedes": [
