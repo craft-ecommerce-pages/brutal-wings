@@ -178,7 +178,7 @@
     "precio": "3.99",
     "precio_promo": "",
     "categorias": [
-      "bites"
+      "snacks"
     ],
     "descripcion": "Crujientes aros de cebolla apanados, dorados y calientes, con ese toque irresistible. Perfectos para picar, con su dip.",
     "stock": null,
@@ -195,7 +195,7 @@
     "precio": "7.99",
     "precio_promo": "",
     "categorias": [
-      "balls"
+      "snacks"
     ],
     "descripcion": "12 crocantes bolitas de pollo apanado, doradas y jugosas, con papas fritas y tu salsa favorita a elegir. Para compartir... o no.",
     "stock": null,
@@ -238,7 +238,7 @@
     "precio": "5.99",
     "precio_promo": "",
     "categorias": [
-      "balls"
+      "snacks"
     ],
     "descripcion": "8 crocantes bolitas de pollo apanado, doraditas por fuera y jugosas por dentro. Con papas fritas y la salsa que elijas. Imposible comer solo una.",
     "stock": null,
@@ -1347,7 +1347,25 @@
     "imagenes": [
       "/producto/cheese-bacon-burger/images/cheese-bacon-burger-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "label": "Simple ($7.99)",
+            "price": 7.99
+          },
+          {
+            "label": "Doble ($9.99)",
+            "price": 9.99
+          },
+          {
+            "label": "Triple ($10.99)",
+            "price": 10.99
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {
@@ -1364,7 +1382,25 @@
     "imagenes": [
       "/producto/cheese-burger/images/cheese-burger-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "label": "Simple ($6.99)",
+            "price": 6.99
+          },
+          {
+            "label": "Doble ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Triple ($9.99)",
+            "price": 9.99
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {
@@ -1381,7 +1417,25 @@
     "imagenes": [
       "/producto/chicken-burger/images/chicken-burger-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "label": "Simple ($5.99)",
+            "price": 5.99
+          },
+          {
+            "label": "Doble ($7.99)",
+            "price": 7.99
+          },
+          {
+            "label": "Triple ($8.99)",
+            "price": 8.99
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {
@@ -1476,7 +1530,7 @@
     "precio": "3.99",
     "precio_promo": "",
     "categorias": [
-      "bites"
+      "snacks"
     ],
     "descripcion": "Deditos de queso mozzarella apanados, crocantes por fuera y con un interior fundido que se estira en cada bocado. Servidos con su dip.",
     "stock": null,
@@ -1635,7 +1689,22 @@
     "imagenes": [
       "/producto/gaseosas-y-aguas/images/gaseosas-y-aguas-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Coca Cola",
+          "Fanta",
+          "Inca Cola",
+          "Sprite",
+          "Diet Coke",
+          "Fuze Tea",
+          "Agua con gas",
+          "Agua sin gas"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1781,7 +1850,7 @@
     "precio": "2.99",
     "precio_promo": "",
     "categorias": [
-      "brutal-beverages"
+      "brutal-drinks"
     ],
     "descripcion": "Té helado aromático y refrescante, servido bien frío. Elige tu sabor.",
     "stock": null,
@@ -1849,7 +1918,25 @@
     "imagenes": [
       "/producto/jalapeno-burger/images/jalapeno-burger-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "label": "Simple ($7.99)",
+            "price": 7.99
+          },
+          {
+            "label": "Doble ($9.99)",
+            "price": 9.99
+          },
+          {
+            "label": "Triple ($10.99)",
+            "price": 10.99
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {
@@ -1876,7 +1963,7 @@
     "precio": "2.99",
     "precio_promo": "",
     "categorias": [
-      "brutal-beverages"
+      "brutal-drinks"
     ],
     "descripcion": "Jugos 100% naturales hechos con fruta fresca. Puro sabor en cada vaso.",
     "stock": null,
@@ -1904,7 +1991,7 @@
     "precio": "2.99",
     "precio_promo": "",
     "categorias": [
-      "brutal-beverages"
+      "brutal-drinks"
     ],
     "descripcion": "Limonadas frescas y burbujeantes, preparadas al momento. Elige tu sabor favorito.",
     "stock": null,
@@ -1958,7 +2045,17 @@
     "imagenes": [
       "/producto/lunch-carne-a-la-plancha/images/lunch-carne-a-la-plancha-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Té",
+        "options": [
+          "Limón",
+          "Frutos Rojos",
+          "Coco"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1975,7 +2072,17 @@
     "imagenes": [
       "/producto/lunch-chicken-fingers/images/lunch-chicken-fingers-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Té",
+        "options": [
+          "Limón",
+          "Frutos Rojos",
+          "Coco"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1992,7 +2099,17 @@
     "imagenes": [
       "/producto/lunch-chuleta-ahumada-y-chorizo/images/lunch-chuleta-ahumada-y-chorizo-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Té",
+        "options": [
+          "Limón",
+          "Frutos Rojos",
+          "Coco"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -2009,7 +2126,17 @@
     "imagenes": [
       "/producto/lunch-pollo-a-la-plancha/images/lunch-pollo-a-la-plancha-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Té",
+        "options": [
+          "Limón",
+          "Frutos Rojos",
+          "Coco"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -2113,7 +2240,7 @@
     "precio": "3.99",
     "precio_promo": "",
     "categorias": [
-      "brutal-shakes"
+      "postres"
     ],
     "descripcion": "Cremosos milkshakes con crema batida. Elige tu sabor favorito.",
     "stock": null,
@@ -2478,7 +2605,25 @@
     "imagenes": [
       "/producto/pijack-burger/images/pijack-burger-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "label": "Simple ($7.99)",
+            "price": 7.99
+          },
+          {
+            "label": "Doble ($9.99)",
+            "price": 9.99
+          },
+          {
+            "label": "Triple ($10.99)",
+            "price": 10.99
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {
@@ -2507,7 +2652,7 @@
     "categorias": [
       "tex-mex"
     ],
-    "descripcion": "Quesadillas de queso fundido en tortilla dorada, servidas con guacamole y salsa. Simplemente irresistibles.",
+    "descripcion": "Quesadillas de pollo y queso fundido en tortilla dorada, servidas con guacamole y salsa. Simplemente irresistibles.",
     "stock": null,
     "imagenes": [
       "/producto/quesadillas/images/quesadillas-1.webp"
@@ -2678,7 +2823,25 @@
     "imagenes": [
       "/producto/veggie-burger/images/veggie-burger-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Tamaño",
+        "options": [
+          {
+            "label": "Simple ($4.99)",
+            "price": 4.99
+          },
+          {
+            "label": "Doble ($6.99)",
+            "price": 6.99
+          },
+          {
+            "label": "Triple ($7.99)",
+            "price": 7.99
+          }
+        ]
+      }
+    ],
     "sku": ""
   },
   {
