@@ -1261,23 +1261,6 @@
     "sku": ""
   },
   {
-    "id": "7e4c2e88-e8b6-4539-b7eb-bc5cc4b96588",
-    "slug": "jalisco-mule",
-    "nombre": "Jalisco Mule",
-    "precio": "8.99",
-    "precio_promo": "",
-    "categorias": [
-      "cocteles"
-    ],
-    "descripcion": "Tequila, jengibre y limón en tarro helado. Picante, fresco y con actitud mexicana.",
-    "stock": null,
-    "imagenes": [
-      "/producto/jalisco-mule/images/jalisco-mule-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
     "id": "8cec6ddf-d38b-47a2-8733-d8dc8e9007cc",
     "slug": "jugos-naturales",
     "nombre": "Jugos Naturales",
@@ -1698,23 +1681,6 @@
     "stock": null,
     "imagenes": [
       "/producto/mojito-strawberry/images/mojito-strawberry-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "d56ad125-f77b-4e43-af51-5c22c76e8a38",
-    "slug": "moscow-mule",
-    "nombre": "Moscow Mule",
-    "precio": "8.99",
-    "precio_promo": "",
-    "categorias": [
-      "cocteles"
-    ],
-    "descripcion": "Moscow Mule: vodka, jengibre y limón en tarro helado. Fresco y con chispa.",
-    "stock": null,
-    "imagenes": [
-      "/producto/moscow-mule/images/moscow-mule-1.webp"
     ],
     "variantes": [],
     "sku": ""
@@ -2368,6 +2334,23 @@
     "sku": ""
   },
   {
+    "id": "7e4c2e88-e8b6-4539-b7eb-bc5cc4b96588",
+    "slug": "jalisco-mule",
+    "nombre": "Jalisco Mule",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Tequila, jengibre y limón en tarro helado. Picante, fresco y con actitud mexicana.",
+    "stock": null,
+    "imagenes": [
+      "/producto/jalisco-mule/images/jalisco-mule-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "c0be632b-f716-417e-a037-5a1a6b64de86",
     "slug": "brutal-wings-20-piezas",
     "nombre": "Brutal Wings 20 piezas",
@@ -2436,6 +2419,23 @@
         "type": "option"
       }
     ],
+    "sku": ""
+  },
+  {
+    "id": "d56ad125-f77b-4e43-af51-5c22c76e8a38",
+    "slug": "moscow-mule",
+    "nombre": "Moscow Mule",
+    "precio": "8.99",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Moscow Mule: vodka, jengibre y limón en tarro helado. Fresco y con chispa.",
+    "stock": null,
+    "imagenes": [
+      "/producto/moscow-mule/images/moscow-mule-1.webp"
+    ],
+    "variantes": [],
     "sku": ""
   },
   {
