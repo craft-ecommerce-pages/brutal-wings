@@ -2200,6 +2200,23 @@
     "sku": ""
   },
   {
+    "id": "7dd15bed-a68f-48df-b9d6-c230e978e269",
+    "slug": "wallace",
+    "nombre": "Wallace",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas"
+    ],
+    "descripcion": "Refrescante cerveza Wallace",
+    "stock": null,
+    "imagenes": [
+      "/producto/wallace/images/wallace-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "3529a214-5476-450b-b700-241f28979c7f",
     "slug": "brutal-wings-25-piezas",
     "nombre": "Brutal Wings 25 piezas",
