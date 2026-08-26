@@ -323,7 +323,32 @@
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
         "options": [
           "Poco Picante",
           "Picante",
@@ -365,7 +390,32 @@
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
         "options": [
           "Poco Picante",
           "Picante",
@@ -407,7 +457,32 @@
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
         "options": [
           "Poco Picante",
           "Picante",
@@ -449,7 +524,57 @@
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa Costilla",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa Alitas 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa Alitas 2",
         "options": [
           "Poco Picante",
           "Picante",
@@ -661,7 +786,8 @@
           "Fuze Tea",
           "Agua con gas",
           "Agua sin gas",
-          "Fiora Fresa"
+          "Fiora Fresa",
+          "Budweiser"
         ],
         "type": "option"
       },
@@ -676,7 +802,8 @@
           "Fuze Tea",
           "Agua con gas",
           "Agua sin gas",
-          "Fiora Fresa"
+          "Fiora Fresa",
+          "Budweiser"
         ],
         "type": "option"
       },
@@ -691,7 +818,8 @@
           "Fuze Tea",
           "Agua con gas",
           "Agua sin gas",
-          "Fiora Fresa"
+          "Fiora Fresa",
+          "Budweiser"
         ],
         "type": "option"
       }
@@ -1073,7 +1201,82 @@
         ]
       },
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 4",
         "options": [
           "Poco Picante",
           "Picante",
@@ -1149,7 +1352,32 @@
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
         "options": [
           "Poco Picante",
           "Picante",
