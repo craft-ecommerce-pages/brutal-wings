@@ -2223,6 +2223,23 @@
     "sku": ""
   },
   {
+    "id": "7dd15bed-a68f-48df-b9d6-c230e978e269",
+    "slug": "modelo",
+    "nombre": "Modelo",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas"
+    ],
+    "descripcion": "Refrescante cerveza Wallace",
+    "stock": null,
+    "imagenes": [
+      "/producto/modelo/images/modelo-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "a36b7ce0-b330-4969-ae82-bb2c06c6ef77",
     "slug": "mojito-clasico",
     "nombre": "Mojito Clásico",
@@ -2802,23 +2819,6 @@
     "stock": null,
     "imagenes": [
       "/producto/vino-hervido/images/vino-hervido-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "7dd15bed-a68f-48df-b9d6-c230e978e269",
-    "slug": "wallace",
-    "nombre": "Wallace",
-    "precio": "4.99",
-    "precio_promo": "",
-    "categorias": [
-      "cervezas"
-    ],
-    "descripcion": "Refrescante cerveza Wallace",
-    "stock": null,
-    "imagenes": [
-      "/producto/wallace/images/wallace-1.webp"
     ],
     "variantes": [],
     "sku": ""
