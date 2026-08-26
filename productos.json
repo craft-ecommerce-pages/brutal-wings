@@ -846,8 +846,8 @@
   },
   {
     "id": "bc8fb13b-2490-403e-a865-5f967903676f",
-    "slug": "crona",
-    "nombre": "Crona",
+    "slug": "corona",
+    "nombre": "Corona",
     "precio": "4.99",
     "precio_promo": "",
     "categorias": [
@@ -856,7 +856,7 @@
     "descripcion": "Refrescante cerveza Corona",
     "stock": null,
     "imagenes": [
-      "/producto/crona/images/crona-1.webp"
+      "/producto/corona/images/corona-1.webp"
     ],
     "variantes": [],
     "sku": ""
