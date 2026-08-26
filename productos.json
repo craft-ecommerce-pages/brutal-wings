@@ -2605,7 +2605,7 @@
     "slug": "tropical-wings-2x1",
     "nombre": "Tropical Wings 2x1",
     "tipo": "promocion",
-    "precio": "",
+    "precio": "10.49",
     "precio_promo": "",
     "categorias": [],
     "descripcion": "Solo los jueves 🔥 2x1 en todos nuestros sabores tropicales: Tamarindo, Limón Pimienta, Frutilla Jalapeño, Hawaiano, Mango Habanero, Maracuyá y Mora.",
@@ -2614,6 +2614,36 @@
       "/producto/tropical-wings-2x1/images/tropical-wings-2x1-1.webp"
     ],
     "variantes": [
+      {
+        "name": "Elige tu combo",
+        "options": [
+          {
+            "label": "6 alitas (recibes 12) ($10.49)",
+            "price": 10.49,
+            "salsas": 1
+          },
+          {
+            "label": "8 alitas (recibes 16) ($12.49)",
+            "price": 12.49,
+            "salsas": 1
+          },
+          {
+            "label": "12 alitas (recibes 24) ($15.49)",
+            "price": 15.49,
+            "salsas": 2
+          },
+          {
+            "label": "20 alitas (recibes 40) ($24.49)",
+            "price": 24.49,
+            "salsas": 3
+          },
+          {
+            "label": "25 alitas (recibes 50) ($28.49)",
+            "price": 28.49,
+            "salsas": 3
+          }
+        ]
+      },
       {
         "name": "Sabor",
         "options": [
@@ -2625,7 +2655,8 @@
           "Maracuyá",
           "Mora"
         ],
-        "type": "option"
+        "type": "option",
+        "repeat": "combo"
       }
     ],
     "sku": ""
