@@ -18,23 +18,28 @@
         "options": [
           {
             "label": "2 x 6 alitas (recibes 12) ($10.99)",
-            "price": 10.99
+            "price": 10.99,
+            "salsas": 2
           },
           {
             "label": "2 x 8 alitas (recibes 16) ($12.99)",
-            "price": 12.99
+            "price": 12.99,
+            "salsas": 2
           },
           {
             "label": "2 x 12 alitas (recibes 24) ($15.99)",
-            "price": 15.99
+            "price": 15.99,
+            "salsas": 3
           },
           {
             "label": "2 x 20 alitas (recibes 40) ($24.99)",
-            "price": 24.99
+            "price": 24.99,
+            "salsas": 5
           },
           {
             "label": "2 x 25 alitas (recibes 50) ($28.99)",
-            "price": 28.99
+            "price": 28.99,
+            "salsas": 5
           }
         ]
       },
@@ -61,7 +66,8 @@
           "Blue Cheese",
           "Jack Daniel's"
         ],
-        "type": "option"
+        "type": "option",
+        "repeat": "combo"
       }
     ],
     "sku": ""
@@ -85,27 +91,33 @@
         "options": [
           {
             "label": "Pides 8, recibes 12 ($11.99)",
-            "price": 11.99
+            "price": 11.99,
+            "salsas": 2
           },
           {
             "label": "Pides 12, recibes 18 ($14.99)",
-            "price": 14.99
+            "price": 14.99,
+            "salsas": 2
           },
           {
             "label": "Pides 20, recibes 30 ($23.99)",
-            "price": 23.99
+            "price": 23.99,
+            "salsas": 4
           },
           {
             "label": "Pides 30, recibes 45 ($29.99)",
-            "price": 29.99
+            "price": 29.99,
+            "salsas": 5
           },
           {
             "label": "Pides 40, recibes 60 ($44.99)",
-            "price": 44.99
+            "price": 44.99,
+            "salsas": 5
           },
           {
             "label": "Pides 50, recibes 75 ($56.99)",
-            "price": 56.99
+            "price": 56.99,
+            "salsas": 5
           }
         ]
       },
@@ -132,7 +144,8 @@
           "Blue Cheese",
           "Jack Daniel's"
         ],
-        "type": "option"
+        "type": "option",
+        "repeat": "combo"
       }
     ],
     "sku": ""
