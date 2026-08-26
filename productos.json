@@ -1233,7 +1233,16 @@
     "imagenes": [
       "/producto/corona/images/corona-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Categoría",
+        "options": [
+          "Clásica",
+          "Light"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
