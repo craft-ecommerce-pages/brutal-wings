@@ -189,6 +189,23 @@
     "sku": ""
   },
   {
+    "id": "5abbfb31-2fc6-49de-8fb2-458cda585919",
+    "slug": "becks",
+    "nombre": "Becks",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas"
+    ],
+    "descripcion": "Refrescante cerveza Becks",
+    "stock": null,
+    "imagenes": [
+      "/producto/becks/images/becks-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "b9035b48-8088-46de-bf59-f47153cc7ce2",
     "slug": "brutal-balls-12-piezas",
     "nombre": "Brutal Balls 12 piezas",
