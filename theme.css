@@ -37,9 +37,7 @@ body{
 .hero h1{font-size:clamp(24px,6vw,52px);line-height:.98;white-space:nowrap;text-shadow:0 4px 24px rgba(228,35,28,.35)}
 .hero-divider{width:110px;height:2px;margin:14px auto 12px;border:none;border-radius:2px;
   background:linear-gradient(90deg,transparent,#F7751F 30%,#E4231C 70%,transparent);
-  box-shadow:0 0 12px rgba(228,35,28,.6);position:relative}
-.hero-divider::after{content:"";position:absolute;top:50%;left:50%;transform:translate(-50%,-50%) rotate(45deg);
-  width:6px;height:6px;background:#F5B301;border-radius:1px;box-shadow:0 0 8px rgba(245,179,1,.9)}
+  box-shadow:0 0 12px rgba(228,35,28,.6)}
 .hero h1 .hl{
   background:linear-gradient(100deg,#F7751F,#E4231C 55%,#ffb347);
   -webkit-background-clip:text;background-clip:text;color:transparent;
