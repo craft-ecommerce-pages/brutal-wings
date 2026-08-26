@@ -64,7 +64,7 @@
         "type": "option"
       }
     ],
-    "sku": "2"
+    "sku": ""
   },
   {
     "id": "1090b427-cd91-46a5-b6e6-d4a39ed0a115",
@@ -135,7 +135,7 @@
         "type": "option"
       }
     ],
-    "sku": "5"
+    "sku": ""
   },
   {
     "id": "b5940788-a5ef-4e46-a6b4-fe57443a4ade",
@@ -348,7 +348,7 @@
         "type": "option"
       }
     ],
-    "sku": "6"
+    "sku": ""
   },
   {
     "id": "2d61bdc6-1320-4b4b-800a-27d8c9879f8c",
@@ -390,7 +390,7 @@
         "type": "option"
       }
     ],
-    "sku": "6"
+    "sku": ""
   },
   {
     "id": "66b65734-a280-4f13-886f-f570c572b54f",
@@ -432,7 +432,7 @@
         "type": "option"
       }
     ],
-    "sku": "1"
+    "sku": ""
   },
   {
     "id": "c83fb900-e4c7-4a8d-9351-b53160609292",
@@ -474,7 +474,7 @@
         "type": "option"
       }
     ],
-    "sku": "6"
+    "sku": ""
   },
   {
     "id": "1357af7c-b679-4929-97c3-6ca84d61d379",
@@ -559,7 +559,7 @@
         ]
       }
     ],
-    "sku": "4"
+    "sku": ""
   },
   {
     "id": "5b9ebcce-5da8-481b-8db2-04869d220891",
@@ -576,7 +576,7 @@
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
         "options": [
           "Poco Picante",
           "Picante",
@@ -599,9 +599,104 @@
           "Jack Daniel's"
         ],
         "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese",
+          "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Bebida 1",
+        "options": [
+          "Coca Cola",
+          "Fanta",
+          "Inca Cola",
+          "Sprite",
+          "Diet Coke",
+          "Fuze Tea",
+          "Agua con gas",
+          "Agua sin gas",
+          "Fiora Fresa"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Bebida 2",
+        "options": [
+          "Coca Cola",
+          "Fanta",
+          "Inca Cola",
+          "Sprite",
+          "Diet Coke",
+          "Fuze Tea",
+          "Agua con gas",
+          "Agua sin gas",
+          "Fiora Fresa"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Bebida 3",
+        "options": [
+          "Coca Cola",
+          "Fanta",
+          "Inca Cola",
+          "Sprite",
+          "Diet Coke",
+          "Fuze Tea",
+          "Agua con gas",
+          "Agua sin gas",
+          "Fiora Fresa"
+        ],
+        "type": "option"
       }
     ],
-    "sku": "3"
+    "sku": ""
   },
   {
     "id": "9e9ee29c-bbb7-48ab-99ee-29c817a2aaae",
@@ -714,7 +809,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Doble carne jugosa a la parrilla, cheddar fundido y tocino crocante en pan brioche tostado, con lechuga fresca y tomate. Una explosión de sabor. Con papas.",
+    "descripcion": "Doble carne jugosa a la parrilla, cheddar fundido y tocino crocante en pan brioche tostado, con lechuga fresca y tomate. Una explosión de sabor. Incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/cheese-bacon-burger/images/cheese-bacon-burger-1.webp"
@@ -749,7 +844,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Clásica hamburguesa de carne jugosa con cheddar fundido, lechuga y tomate en pan brioche tostado. Simple y perfecta. Con papas.",
+    "descripcion": "Clásica hamburguesa de carne jugosa con cheddar fundido, lechuga y tomate en pan brioche tostado. Simple y perfecta. Incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/cheese-burger/images/cheese-burger-1.webp"
@@ -784,7 +879,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Crocante filete de pollo apanado, lechuga fresca, tomate y salsa cremosa en pan brioche tostado. Ligera y deliciosa. Con papas.",
+    "descripcion": "Crocante filete de pollo apanado, lechuga fresca, tomate y salsa cremosa en pan brioche tostado. Ligera y deliciosa. Incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/chicken-burger/images/chicken-burger-1.webp"
@@ -1003,7 +1098,7 @@
         "type": "option"
       }
     ],
-    "sku": "0"
+    "sku": ""
   },
   {
     "id": "a5092bfb-6ec5-43eb-a811-8ec3cc070cd8",
@@ -1079,7 +1174,7 @@
         "type": "option"
       }
     ],
-    "sku": "5"
+    "sku": ""
   },
   {
     "id": "8d2e71b7-5bf8-4213-98bf-1c53cf2fc663",
@@ -1337,7 +1432,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Carne a la parrilla con queso fundido, jalapeños en rodajas y salsa especial en pan brioche. Para los que aman el picante. Con papas.",
+    "descripcion": "Carne a la parrilla con queso fundido, jalapeños en rodajas y salsa especial en pan brioche. Para los que aman el picante. Incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/jalapeno-burger/images/jalapeno-burger-1.webp"
@@ -1560,7 +1655,7 @@
       "/producto/margaritas-y-coronitas-2x1/images/margaritas-y-coronitas-2x1-1.webp"
     ],
     "variantes": [],
-    "sku": "4"
+    "sku": ""
   },
   {
     "id": "eb7312c0-16e4-40ca-8714-63c02c261d27",
@@ -1576,7 +1671,33 @@
     "imagenes": [
       "/producto/medium-flag/images/medium-flag-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1700,7 +1821,33 @@
     "imagenes": [
       "/producto/mini-chicken-balls/images/mini-chicken-balls-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -1990,7 +2137,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Nuestra burger insignia: carne jugosa, queso fundido, piña, tocino y salsa de la casa en pan brioche tostado. Más sabor, más actitud. Con papas.",
+    "descripcion": "Nuestra burger insignia: carne jugosa, queso fundido, piña, tocino y salsa de la casa en pan brioche tostado. Más sabor, más actitud. Incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/pijack-burger/images/pijack-burger-1.webp"
@@ -2149,7 +2296,33 @@
     "imagenes": [
       "/producto/super-flag/images/super-flag-1.webp"
     ],
-    "variantes": [],
+    "variantes": [
+      {
+        "name": "Salsa",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      }
+    ],
     "sku": ""
   },
   {
@@ -2214,7 +2387,7 @@
         "type": "option"
       }
     ],
-    "sku": "4"
+    "sku": ""
   },
   {
     "id": "efe47d39-9d9d-45c2-802f-5f424c1540a6",
@@ -2225,7 +2398,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Deliciosa hamburguesa vegetariana con medallón de vegetales, lechuga, tomate y cebolla en pan brioche. Sabor pleno, sin carne. Con papas.",
+    "descripcion": "Deliciosa hamburguesa vegetariana con medallón de vegetales, lechuga, tomate y cebolla en pan brioche. Sabor pleno, sin carne. Incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/veggie-burger/images/veggie-burger-1.webp"
@@ -2241,10 +2414,6 @@
           {
             "label": "Doble ($6.99)",
             "price": 6.99
-          },
-          {
-            "label": "Triple ($7.99)",
-            "price": 7.99
           }
         ]
       }
@@ -2330,6 +2499,31 @@
       },
       {
         "name": "Salsa 2",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
         "options": [
           "Poco Picante",
           "Picante",
@@ -2440,6 +2634,31 @@
           "Jack Daniel's (+$2.00)"
         ],
         "type": "option"
+      },
+      {
+        "name": "Salsa 3",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
       }
     ],
     "sku": ""
@@ -2480,7 +2699,32 @@
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
         "options": [
           "Poco Picante",
           "Picante",
