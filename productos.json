@@ -2152,7 +2152,7 @@
     "id": "3529a214-5476-450b-b700-241f28979c7f",
     "slug": "brutal-wings-25-piezas",
     "nombre": "Brutal Wings 25 piezas",
-    "precio": "28.99",
+    "precio": "28.49",
     "precio_promo": "",
     "categorias": [
       "alitas"
@@ -2169,164 +2169,50 @@
       {
         "name": "Salsa 1",
         "options": [
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Poco Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Suicida"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "BBQ Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Chipotle Ranch"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Honey Spicy"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Mango Habanero"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Frutilla y Jalapeño"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-            "label": "Limón y Pimienta"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-            "label": "Maracuyá"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "Tamarindo"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-            "label": "Hawaiano"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "Mora"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "BBQ"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-            "label": "Honey Mustard"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "Teriyaki"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-4.webp",
-            "label": "Ajo Parmesano"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-4.webp",
-            "label": "Blue Cheese (+$2.00)"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "Jack Daniel's (+$2.00)"
-          }
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
         ],
         "type": "option"
       },
       {
         "name": "Salsa 2",
         "options": [
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Poco Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Suicida"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "BBQ Picante"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Chipotle Ranch"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Honey Spicy"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Mango Habanero"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-            "label": "Frutilla y Jalapeño"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-            "label": "Limón y Pimienta"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-            "label": "Maracuyá"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "Tamarindo"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-            "label": "Hawaiano"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "Mora"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "BBQ"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-            "label": "Honey Mustard"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "Teriyaki"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-4.webp",
-            "label": "Ajo Parmesano"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-4.webp",
-            "label": "Blue Cheese (+$2.00)"
-          },
-          {
-            "image": "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-            "label": "Jack Daniel's (+$2.00)"
-          }
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
         ],
         "type": "option"
       }
@@ -2354,7 +2240,7 @@
     "id": "c0be632b-f716-417e-a037-5a1a6b64de86",
     "slug": "brutal-wings-20-piezas",
     "nombre": "Brutal Wings 20 piezas",
-    "precio": "24.99",
+    "precio": "24.49",
     "precio_promo": "",
     "categorias": [
       "alitas"
