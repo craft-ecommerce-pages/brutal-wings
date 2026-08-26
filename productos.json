@@ -155,6 +155,23 @@
     "sku": ""
   },
   {
+    "id": "5a1c987e-9098-4863-8790-e92ac023f698",
+    "slug": "amstel",
+    "nombre": "Amstel",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas"
+    ],
+    "descripcion": "Refrescante cerveza Stella Artois",
+    "stock": null,
+    "imagenes": [
+      "/producto/amstel/images/amstel-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "73b3ed94-bfa0-488f-b481-1ac4436a3767",
     "slug": "aperol-spritz",
     "nombre": "Aperol Spritz",
