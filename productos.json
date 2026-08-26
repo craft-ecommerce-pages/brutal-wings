@@ -1098,6 +1098,94 @@
     "sku": ""
   },
   {
+    "id": "c9aa795e-ab82-455c-92a0-ea8e71aacdad",
+    "slug": "cocteles-2x1",
+    "nombre": "Cócteles 2x1",
+    "tipo": "promocion",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Todos los días 🍹 2x1 en cócteles: elige tu cóctel y llévate 2 del mismo tipo. Aplica en cócteles seleccionados.",
+    "stock": null,
+    "imagenes": null,
+    "variantes": [
+      {
+        "name": "Elige tu cóctel",
+        "options": [
+          {
+            "label": "Amaretto Sour ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Cuba Libre ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Gin \u0026 Tonic ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Jack Daniel's ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Mojito Clásico ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Mojito Maracuyá ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Mojito Strawberry ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Padrino ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Piña Colada ($7.49)",
+            "price": 7.49
+          },
+          {
+            "label": "Aperol Spritz ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Bulldog ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Electric Lemonade ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Jager Boom ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Jalisco Mule ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Long Island Iced Tea ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Moscow Mule ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Strawberry Margarita ($8.99)",
+            "price": 8.99
+          }
+        ]
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "f49b2032-ac66-4b91-9d04-06eedf748971",
     "slug": "copa-de-sangria",
     "nombre": "Copa de Sangría",
