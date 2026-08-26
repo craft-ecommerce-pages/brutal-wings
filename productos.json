@@ -1063,6 +1063,23 @@
     "sku": ""
   },
   {
+    "id": "6cd1f6d1-d10b-44e9-b759-492ccf0e11e3",
+    "slug": "heineken",
+    "nombre": "Heineken",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas"
+    ],
+    "descripcion": "Refrescante cerveza Heineken",
+    "stock": null,
+    "imagenes": [
+      "/producto/heineken/images/heineken-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "1672087e-9755-4cba-8030-226d602bb79a",
     "slug": "helado-artesanal-cacao",
     "nombre": "Helado Artesanal Cacao",
