@@ -828,6 +828,23 @@
     "sku": ""
   },
   {
+    "id": "bc8fb13b-2490-403e-a865-5f967903676f",
+    "slug": "crona",
+    "nombre": "Crona",
+    "precio": "4.99",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas"
+    ],
+    "descripcion": "Refrescante cerveza Corona",
+    "stock": null,
+    "imagenes": [
+      "/producto/crona/images/crona-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "5face7c5-0c8a-4622-a277-4d7a9b140d89",
     "slug": "cuba-libre",
     "nombre": "Cuba Libre",
