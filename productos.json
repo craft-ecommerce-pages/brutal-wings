@@ -604,6 +604,23 @@
     "sku": "3"
   },
   {
+    "id": "9e9ee29c-bbb7-48ab-99ee-29c817a2aaae",
+    "slug": "budweiser",
+    "nombre": "Budweiser",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas"
+    ],
+    "descripcion": "Refrescante cerveza Budweiser",
+    "stock": null,
+    "imagenes": [
+      "/producto/budweiser/images/budweiser-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "3c293a9f-37ed-40f5-9ee2-f001b6e5bf1e",
     "slug": "buffalo-chicken-salad",
     "nombre": "Buffalo Chicken Salad",
