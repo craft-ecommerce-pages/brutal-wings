@@ -34,7 +34,8 @@ body{
 
 /* ── Hero ── */
 .hero{border-bottom:1px solid var(--border)}
-.hero h1{font-size:clamp(30px,7vw,52px);line-height:.98;text-shadow:0 4px 24px rgba(228,35,28,.35)}
+.hero h1{font-size:clamp(24px,6vw,52px);line-height:.98;white-space:nowrap;text-shadow:0 4px 24px rgba(228,35,28,.35)}
+.hero-divider{width:56px;height:3px;margin:14px 0 12px;border-radius:2px;background:linear-gradient(90deg,#F7751F,#E4231C)}
 .hero h1 .hl{
   background:linear-gradient(100deg,#F7751F,#E4231C 55%,#ffb347);
   -webkit-background-clip:text;background-clip:text;color:transparent;
