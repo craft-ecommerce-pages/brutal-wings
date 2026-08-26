@@ -845,6 +845,23 @@
     "sku": ""
   },
   {
+    "id": "4fa12742-89a6-4881-9c87-0e7eac0132d4",
+    "slug": "club",
+    "nombre": "Club",
+    "precio": "3.99",
+    "precio_promo": "",
+    "categorias": [
+      "cervezas"
+    ],
+    "descripcion": "Refrescante cerveza Club",
+    "stock": null,
+    "imagenes": [
+      "/producto/club/images/club-1.webp"
+    ],
+    "variantes": [],
+    "sku": ""
+  },
+  {
     "id": "f49b2032-ac66-4b91-9d04-06eedf748971",
     "slug": "copa-de-sangria",
     "nombre": "Copa de Sangría",
