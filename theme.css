@@ -62,6 +62,9 @@ body{
 /* ── Categorías: el motor ya estiliza .cat-chip .ic (tile) con mis vars.
    No poner caja en .cat-chip (es la columna) — solo el encabezado de sección. ── */
 .cat-header{color:var(--primary);border-left:4px solid var(--accent);padding-left:10px}
+/* Iconos de categoría más pequeños (override del motor) */
+.cat-chip{width:56px}
+.cat-chip .ic{width:44px;height:44px;border-radius:14px;font-size:20px}
 
 /* ── Flechas del carrusel de categorías ── */
 .cat-nav{position:relative}
