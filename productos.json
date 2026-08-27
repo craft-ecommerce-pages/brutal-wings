@@ -1177,6 +1177,63 @@
     "sku": ""
   },
   {
+    "id": "39958e64-a171-4f79-8ad1-83df9f324759",
+    "slug": "cocteles-3x2",
+    "nombre": "Cócteles 3x2",
+    "tipo": "promocion",
+    "precio": "17.98",
+    "precio_promo": "",
+    "categorias": [],
+    "descripcion": "Elige 3 cócteles y paga solo 2 🍸 — el más económico va gratis. Todos los días.",
+    "stock": null,
+    "imagenes": [
+      "/producto/cocteles-3x2/images/cocteles-3x2-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Elige tus 3 cócteles",
+        "options": [
+          {
+            "label": "Moscow Mule ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Jalisco Mule ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Bulldog ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Jager Boom ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Electric Lemonade ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Long Island Iced Tea ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Strawberry Margarita ($8.99)",
+            "price": 8.99
+          },
+          {
+            "label": "Aperol Spritz ($8.99)",
+            "price": 8.99
+          }
+        ],
+        "pick": 3,
+        "free": 1,
+        "item": "Cóctel"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "f49b2032-ac66-4b91-9d04-06eedf748971",
     "slug": "copa-de-sangria",
     "nombre": "Copa de Sangría",
