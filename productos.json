@@ -1949,6 +1949,32 @@
     "sku": ""
   },
   {
+    "id": "165dffbc-b1e9-467b-af0d-bc89471a40b9",
+    "slug": "margaritas",
+    "nombre": "Margaritas",
+    "precio": "7.49",
+    "precio_promo": "",
+    "categorias": [
+      "cocteles"
+    ],
+    "descripcion": "Margarita de fresa con borde de sal, tequila y limón. Frutal y refrescante.",
+    "stock": null,
+    "imagenes": [
+      "/producto/margaritas/images/margaritas-1.webp"
+    ],
+    "variantes": [
+      {
+        "name": "Sabor",
+        "options": [
+          "Clásica",
+          "Strawberry"
+        ],
+        "type": "option"
+      }
+    ],
+    "sku": ""
+  },
+  {
     "id": "c4aaa5a2-6c78-4c30-9a6b-998f68ce1e1a",
     "slug": "margaritas-y-coronitas-2x1",
     "nombre": "Margaritas y Coronitas 2x1",
@@ -2599,23 +2625,6 @@
     "stock": null,
     "imagenes": [
       "/producto/stella-artois/images/stella-artois-1.webp"
-    ],
-    "variantes": [],
-    "sku": ""
-  },
-  {
-    "id": "165dffbc-b1e9-467b-af0d-bc89471a40b9",
-    "slug": "strawberry-margarita",
-    "nombre": "Strawberry Margarita",
-    "precio": "8.99",
-    "precio_promo": "",
-    "categorias": [
-      "cocteles"
-    ],
-    "descripcion": "Margarita de fresa con borde de sal, tequila y limón. Frutal y refrescante.",
-    "stock": null,
-    "imagenes": [
-      "/producto/strawberry-margarita/images/strawberry-margarita-1.webp"
     ],
     "variantes": [],
     "sku": ""
