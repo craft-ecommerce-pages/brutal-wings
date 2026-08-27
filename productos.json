@@ -34,7 +34,7 @@
           {
             "label": "2 x 20 alitas (recibes 40) ($24.99)",
             "price": 24.99,
-            "salsas": 5
+            "salsas": 4
           },
           {
             "label": "2 x 25 alitas (recibes 50) ($28.99)",
@@ -102,22 +102,22 @@
           {
             "label": "Pides 20, recibes 30 ($23.99)",
             "price": 23.99,
-            "salsas": 4
+            "salsas": 3
           },
           {
             "label": "Pides 30, recibes 45 ($29.99)",
             "price": 29.99,
-            "salsas": 5
+            "salsas": 4
           },
           {
             "label": "Pides 40, recibes 60 ($44.99)",
             "price": 44.99,
-            "salsas": 5
+            "salsas": 6
           },
           {
             "label": "Pides 50, recibes 75 ($56.99)",
             "price": 56.99,
-            "salsas": 5
+            "salsas": 7
           }
         ]
       },
@@ -403,6 +403,14 @@
     ],
     "variantes": [
       {
+        "name": "Elige tu plato",
+        "options": [
+          "Enchilada",
+          "Quesadilla"
+        ],
+        "type": "option"
+      },
+      {
         "name": "Salsa 1",
         "options": [
           "Poco Picante",
@@ -516,6 +524,23 @@
           "Ajo Parmesano",
           "Blue Cheese",
           "Jack Daniel's"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Bebida",
+        "options": [
+          "Cerveza Club",
+          "Coca Cola",
+          "Fanta",
+          "Inca Cola",
+          "Sprite",
+          "Diet Coke",
+          "Fuze Tea",
+          "Agua con gas",
+          "Agua sin gas",
+          "Fiora Fresa",
+          "Mora"
         ],
         "type": "option"
       }
@@ -950,7 +975,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Doble carne jugosa a la parrilla, cheddar fundido y tocino crocante en pan brioche tostado, con lechuga fresca y tomate. Una explosión de sabor. Incluye papas.",
+    "descripcion": "Carne jugosa a la parrilla, cheddar fundido y tocino crocante en pan brioche tostado, con lechuga fresca y tomate. Una explosión de sabor. Incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/cheese-bacon-burger/images/cheese-bacon-burger-1.webp"
@@ -1298,20 +1323,23 @@
         "options": [
           {
             "label": "20 alitas ($22.99)",
-            "price": 22.99
+            "price": 22.99,
+            "salsas": 3
           },
           {
             "label": "30 alitas ($26.99)",
-            "price": 26.99
+            "price": 26.99,
+            "salsas": 3
           },
           {
             "label": "40 alitas ($29.99)",
-            "price": 29.99
+            "price": 29.99,
+            "salsas": 4
           }
         ]
       },
       {
-        "name": "Salsa 1",
+        "name": "Salsa",
         "options": [
           "Poco Picante",
           "Picante",
@@ -1333,82 +1361,8 @@
           "Blue Cheese",
           "Jack Daniel's"
         ],
-        "type": "option"
-      },
-      {
-        "name": "Salsa 2",
-        "options": [
-          "Poco Picante",
-          "Picante",
-          "Suicida",
-          "BBQ Picante",
-          "Chipotle Ranch",
-          "Honey Spicy",
-          "Mango Habanero",
-          "Frutilla y Jalapeño",
-          "Limón y Pimienta",
-          "Maracuyá",
-          "Tamarindo",
-          "Hawaiano",
-          "Mora",
-          "BBQ",
-          "Honey Mustard",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Blue Cheese",
-          "Jack Daniel's"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Salsa 3",
-        "options": [
-          "Poco Picante",
-          "Picante",
-          "Suicida",
-          "BBQ Picante",
-          "Chipotle Ranch",
-          "Honey Spicy",
-          "Mango Habanero",
-          "Frutilla y Jalapeño",
-          "Limón y Pimienta",
-          "Maracuyá",
-          "Tamarindo",
-          "Hawaiano",
-          "Mora",
-          "BBQ",
-          "Honey Mustard",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Blue Cheese",
-          "Jack Daniel's"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Salsa 4",
-        "options": [
-          "Poco Picante",
-          "Picante",
-          "Suicida",
-          "BBQ Picante",
-          "Chipotle Ranch",
-          "Honey Spicy",
-          "Mango Habanero",
-          "Frutilla y Jalapeño",
-          "Limón y Pimienta",
-          "Maracuyá",
-          "Tamarindo",
-          "Hawaiano",
-          "Mora",
-          "BBQ",
-          "Honey Mustard",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Blue Cheese",
-          "Jack Daniel's"
-        ],
-        "type": "option"
+        "type": "option",
+        "repeat": "combo"
       }
     ],
     "sku": ""
@@ -1452,7 +1406,7 @@
     "slug": "friday-wing-party",
     "nombre": "Friday Wing Party",
     "tipo": "promocion",
-    "precio": "",
+    "precio": "25.99",
     "precio_promo": "",
     "categorias": [],
     "descripcion": "Solo los viernes 🔥 Bandeja para compartir: 8 alitas + 8 camarones apanados + 4 dedos de queso + 3 micheladas + papas fritas + 4 mini burgers. Elige tus salsas favoritas.",
@@ -1462,7 +1416,7 @@
     ],
     "variantes": [
       {
-        "name": "Salsa 1",
+        "name": "Salsa",
         "options": [
           "Poco Picante",
           "Picante",
@@ -1487,27 +1441,38 @@
         "type": "option"
       },
       {
-        "name": "Salsa 2",
+        "name": "Michelada 1",
         "options": [
-          "Poco Picante",
-          "Picante",
-          "Suicida",
-          "BBQ Picante",
-          "Chipotle Ranch",
-          "Honey Spicy",
-          "Mango Habanero",
-          "Frutilla y Jalapeño",
-          "Limón y Pimienta",
           "Maracuyá",
+          "Mandarina",
+          "Grosella",
+          "Mango",
           "Tamarindo",
-          "Hawaiano",
-          "Mora",
-          "BBQ",
-          "Honey Mustard",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Blue Cheese",
-          "Jack Daniel's"
+          "Frutos Rojos"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Michelada 2",
+        "options": [
+          "Maracuyá",
+          "Mandarina",
+          "Grosella",
+          "Mango",
+          "Tamarindo",
+          "Frutos Rojos"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Michelada 3",
+        "options": [
+          "Maracuyá",
+          "Mandarina",
+          "Grosella",
+          "Mango",
+          "Tamarindo",
+          "Frutos Rojos"
         ],
         "type": "option"
       }
@@ -1540,7 +1505,8 @@
           "Fuze Tea",
           "Agua con gas",
           "Agua sin gas",
-          "Fiora Fresa"
+          "Fiora Fresa",
+          "Mora"
         ],
         "type": "option"
       }
@@ -2492,7 +2458,7 @@
     "categorias": [
       "burgers"
     ],
-    "descripcion": "Nuestra burger insignia: carne jugosa, queso fundido, piña, tocino y salsa de la casa en pan brioche tostado. Más sabor, más actitud. Incluye papas.",
+    "descripcion": "Nuestra burger insignia: carne jugosa, queso fundido, piña y salsa de la casa en pan brioche tostado. Más sabor, más actitud. Incluye papas.",
     "stock": null,
     "imagenes": [
       "/producto/pijack-burger/images/pijack-burger-1.webp"
