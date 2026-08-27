@@ -1132,7 +1132,9 @@
     "categorias": [],
     "descripcion": "Todos los días 🍹 2x1 en cócteles: elige tu cóctel y llévate 2 del mismo tipo. Aplica en cócteles seleccionados.",
     "stock": null,
-    "imagenes": null,
+    "imagenes": [
+      "/producto/cocteles-2x1/images/cocteles-2x1-1.webp"
+    ],
     "variantes": [
       {
         "name": "Elige tu cóctel",
