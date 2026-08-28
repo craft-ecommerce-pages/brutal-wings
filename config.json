@@ -1,5 +1,7 @@
 {
   "badge_category": "alitas",
+  "catalog_notify_token": "bd3cb1cc-5a94-4db5-9bc0-6e289fbe8bf7",
+  "catalog_notify_url": "https://crm.craftmarketing.agency/api/v1/catalog/notify-order",
   "categories": {
     "alitas": "🍗 Alitas",
     "brutal-drinks": "🥤 Bebidas",
