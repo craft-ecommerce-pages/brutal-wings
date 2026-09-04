@@ -2837,75 +2837,25 @@
     "sku": ""
   },
   {
-    "id": "3529a214-5476-450b-b700-241f28979c7f",
-    "slug": "brutal-wings-25-piezas",
-    "nombre": "Brutal Wings 25 piezas",
-    "precio": "28.49",
+    "id": "7024b21e-f7ef-46a5-81dd-903a2f88e892",
+    "slug": "brutal-wings-6-piezas",
+    "nombre": "Brutal Wings 6 piezas",
+    "precio": "10.49",
     "precio_promo": "",
     "categorias": [
       "alitas"
     ],
-    "descripcion": "25 alitas de pollo para el grupo completo, bañadas en tus 2 salsas favoritas. Crocantes, jugosas y llenas de sabor, con apio y su dip. La fiesta brutal.",
+    "descripcion": "6 jugosas alitas de pollo bañadas en la salsa brutal de tu elección, crujientes por fuera y tiernas por dentro. Acompañadas de apio y su dip. El antojo perfecto para uno.",
     "stock": null,
     "imagenes": [
-      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
-      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
-      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
-      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-4.webp"
+      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-1.webp",
+      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-2.webp",
+      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-3.webp",
+      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-4.webp"
     ],
     "variantes": [
       {
-        "name": "Salsa 1",
-        "options": [
-          "Poco Picante",
-          "Picante",
-          "Suicida",
-          "BBQ Picante",
-          "Chipotle Ranch",
-          "Honey Spicy",
-          "Mango Habanero",
-          "Frutilla y Jalapeño",
-          "Limón y Pimienta",
-          "Maracuyá",
-          "Tamarindo",
-          "Hawaiano",
-          "Mora",
-          "BBQ",
-          "Honey Mustard",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Blue Cheese (+$2.00)",
-          "Jack Daniel's (+$2.00)"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Salsa 2",
-        "options": [
-          "Poco Picante",
-          "Picante",
-          "Suicida",
-          "BBQ Picante",
-          "Chipotle Ranch",
-          "Honey Spicy",
-          "Mango Habanero",
-          "Frutilla y Jalapeño",
-          "Limón y Pimienta",
-          "Maracuyá",
-          "Tamarindo",
-          "Hawaiano",
-          "Mora",
-          "BBQ",
-          "Honey Mustard",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Blue Cheese (+$2.00)",
-          "Jack Daniel's (+$2.00)"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Salsa 3",
+        "name": "Salsa",
         "options": [
           "Poco Picante",
           "Picante",
@@ -2950,75 +2900,26 @@
     "sku": ""
   },
   {
-    "id": "c0be632b-f716-417e-a037-5a1a6b64de86",
-    "slug": "brutal-wings-20-piezas",
-    "nombre": "Brutal Wings 20 piezas",
-    "precio": "24.49",
+    "id": "1d705d5a-b7ed-4ce3-9e8f-3b56fd486504",
+    "slug": "brutal-wings-8-piezas",
+    "nombre": "Brutal Wings 8 piezas",
+    "precio": "12.49",
     "precio_promo": "",
     "categorias": [
       "alitas"
     ],
-    "descripcion": "20 alitas de pollo para compartir, glaseadas en las salsas que elijas (elige 2), crocantes y jugosas. Con apio y su dip. Perfectas para la mesa.",
+    "descripcion": "8 jugosas alitas de pollo glaseadas en tu salsa brutal favorita, crocantes y llenas de sabor. Con apio y su dip. Imposible parar.",
     "stock": null,
     "imagenes": [
-      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-1.webp",
-      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-2.webp",
-      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-3.webp",
-      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-4.webp"
+      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-1.webp",
+      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-2.webp",
+      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-3.webp",
+      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-4.webp",
+      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-5.webp"
     ],
     "variantes": [
       {
-        "name": "Salsa 1",
-        "options": [
-          "Poco Picante",
-          "Picante",
-          "Suicida",
-          "BBQ Picante",
-          "Chipotle Ranch",
-          "Honey Spicy",
-          "Mango Habanero",
-          "Frutilla y Jalapeño",
-          "Limón y Pimienta",
-          "Maracuyá",
-          "Tamarindo",
-          "Hawaiano",
-          "Mora",
-          "BBQ",
-          "Honey Mustard",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Blue Cheese (+$2.00)",
-          "Jack Daniel's (+$2.00)"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Salsa 2",
-        "options": [
-          "Poco Picante",
-          "Picante",
-          "Suicida",
-          "BBQ Picante",
-          "Chipotle Ranch",
-          "Honey Spicy",
-          "Mango Habanero",
-          "Frutilla y Jalapeño",
-          "Limón y Pimienta",
-          "Maracuyá",
-          "Tamarindo",
-          "Hawaiano",
-          "Mora",
-          "BBQ",
-          "Honey Mustard",
-          "Teriyaki",
-          "Ajo Parmesano",
-          "Blue Cheese (+$2.00)",
-          "Jack Daniel's (+$2.00)"
-        ],
-        "type": "option"
-      },
-      {
-        "name": "Salsa 3",
+        "name": "Salsa",
         "options": [
           "Poco Picante",
           "Picante",
@@ -3134,26 +3035,75 @@
     "sku": ""
   },
   {
-    "id": "1d705d5a-b7ed-4ce3-9e8f-3b56fd486504",
-    "slug": "brutal-wings-8-piezas",
-    "nombre": "Brutal Wings 8 piezas",
-    "precio": "12.49",
+    "id": "c0be632b-f716-417e-a037-5a1a6b64de86",
+    "slug": "brutal-wings-20-piezas",
+    "nombre": "Brutal Wings 20 piezas",
+    "precio": "24.49",
     "precio_promo": "",
     "categorias": [
       "alitas"
     ],
-    "descripcion": "8 jugosas alitas de pollo glaseadas en tu salsa brutal favorita, crocantes y llenas de sabor. Con apio y su dip. Imposible parar.",
+    "descripcion": "20 alitas de pollo para compartir, glaseadas en las salsas que elijas (elige 2), crocantes y jugosas. Con apio y su dip. Perfectas para la mesa.",
     "stock": null,
     "imagenes": [
-      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-1.webp",
-      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-2.webp",
-      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-3.webp",
-      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-4.webp",
-      "/producto/brutal-wings-8-piezas/images/brutal-wings-8-piezas-5.webp"
+      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-1.webp",
+      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-2.webp",
+      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-3.webp",
+      "/producto/brutal-wings-20-piezas/images/brutal-wings-20-piezas-4.webp"
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
         "options": [
           "Poco Picante",
           "Picante",
@@ -3181,25 +3131,75 @@
     "sku": ""
   },
   {
-    "id": "7024b21e-f7ef-46a5-81dd-903a2f88e892",
-    "slug": "brutal-wings-6-piezas",
-    "nombre": "Brutal Wings 6 piezas",
-    "precio": "10.49",
+    "id": "3529a214-5476-450b-b700-241f28979c7f",
+    "slug": "brutal-wings-25-piezas",
+    "nombre": "Brutal Wings 25 piezas",
+    "precio": "28.49",
     "precio_promo": "",
     "categorias": [
       "alitas"
     ],
-    "descripcion": "6 jugosas alitas de pollo bañadas en la salsa brutal de tu elección, crujientes por fuera y tiernas por dentro. Acompañadas de apio y su dip. El antojo perfecto para uno.",
+    "descripcion": "25 alitas de pollo para el grupo completo, bañadas en tus 2 salsas favoritas. Crocantes, jugosas y llenas de sabor, con apio y su dip. La fiesta brutal.",
     "stock": null,
     "imagenes": [
-      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-1.webp",
-      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-2.webp",
-      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-3.webp",
-      "/producto/brutal-wings-6-piezas/images/brutal-wings-6-piezas-4.webp"
+      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-1.webp",
+      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-2.webp",
+      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-3.webp",
+      "/producto/brutal-wings-25-piezas/images/brutal-wings-25-piezas-4.webp"
     ],
     "variantes": [
       {
-        "name": "Salsa",
+        "name": "Salsa 1",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 2",
+        "options": [
+          "Poco Picante",
+          "Picante",
+          "Suicida",
+          "BBQ Picante",
+          "Chipotle Ranch",
+          "Honey Spicy",
+          "Mango Habanero",
+          "Frutilla y Jalapeño",
+          "Limón y Pimienta",
+          "Maracuyá",
+          "Tamarindo",
+          "Hawaiano",
+          "Mora",
+          "BBQ",
+          "Honey Mustard",
+          "Teriyaki",
+          "Ajo Parmesano",
+          "Blue Cheese (+$2.00)",
+          "Jack Daniel's (+$2.00)"
+        ],
+        "type": "option"
+      },
+      {
+        "name": "Salsa 3",
         "options": [
           "Poco Picante",
           "Picante",
